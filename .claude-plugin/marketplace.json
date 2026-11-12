@@ -1,0 +1,13 @@
+{
+  "name": "gippgs-plugins",
+  "owner": {
+    "name": "Gippgs"
+  },
+  "plugins": [
+    {
+      "name": "fpf-dpf",
+      "source": "./plugins/fpf-dpf",
+      "description": "FPF Core and published DPFs from ailev/FPF with selective retrieval and atomic corpus updates."
+    }
+  ]
+}

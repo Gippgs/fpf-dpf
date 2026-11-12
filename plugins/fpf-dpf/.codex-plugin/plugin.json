@@ -1,0 +1,25 @@
+{
+  "name": "fpf-dpf",
+  "version": "1.1.2",
+  "description": "FPF Core and published DPFs from ailev/FPF with selective retrieval and atomic corpus updates.",
+  "author": {
+    "name": "Personal FPF + DPF adaptation"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "FPF + DPF",
+    "shortDescription": "FPF and domain frameworks with corpus updates.",
+    "longDescription": "Uses the author's usage guide, discovers published FPF/DPF sources, checks updates per task, and scales reading and assurance to the task.",
+    "developerName": "Personal adaptation",
+    "category": "Productivity",
+    "capabilities": [
+      "Analyze",
+      "Search",
+      "Structure"
+    ],
+    "defaultPrompt": [
+      "Apply FPF and relevant DPFs to my task with the minimum sufficient detail.",
+      "Check for updates to the FPF and DPF corpus."
+    ]
+  }
+}

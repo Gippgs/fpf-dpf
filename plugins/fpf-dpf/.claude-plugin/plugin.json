@@ -1,0 +1,6 @@
+{
+  "name": "fpf-dpf",
+  "version": "1.1.2",
+  "description": "FPF Core and published DPFs from ailev/FPF with selective retrieval and atomic corpus updates.",
+  "repository": "https://github.com/Gippgs/fpf-dpf"
+}

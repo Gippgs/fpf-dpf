@@ -1,0 +1,20 @@
+{
+  "name": "gippgs-plugins",
+  "interface": {
+    "displayName": "Gippgs Plugins"
+  },
+  "plugins": [
+    {
+      "name": "fpf-dpf",
+      "source": {
+        "source": "local",
+        "path": "./plugins/fpf-dpf"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

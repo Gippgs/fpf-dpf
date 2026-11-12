@@ -1,0 +1,3933 @@
+{
+  "preface_1": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_2": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_3": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_4": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_5": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_6": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_7": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_8": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_9": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_10": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_11": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_12": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_13": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_14": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_15": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_16": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_17": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_18": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_19": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_20": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_21": {
+    "keywords": [],
+    "queries": []
+  },
+  "preface_22": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.0": {
+    "keywords": [
+      "novelty",
+      "quality-diversity (NQD)",
+      "explore/exploit (E/E-LOG)",
+      "declared set result",
+      "typed portfolio publication",
+      "SearchSpaceRef",
+      "OutcomeSpaceRef",
+      "DeclaredSubstrateInterpretiveView",
+      "TypedSetViews",
+      "ParetoOnly default",
+      "scale-probe",
+      "BLP"
+    ],
+    "queries": [
+      "What terms must I publish when generating, selecting, or shipping a set result?",
+      "How do I explain search-side vs outcome-side spaces and interpretive views on first use?",
+      "How does FPF avoid single-winner bias in creative search?"
+    ]
+  },
+  "A.1": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.1.1": {
+    "keywords": [],
+    "queries": [
+      "Which exact applicability, actual-use, and fixed-content coherence facts matter here?",
+      "Do their governed occurrences form one decision-relevant structure?",
+      "Which context object or unsupported crossing must I not invent?"
+    ]
+  },
+  "A.1.SCR": {
+    "keywords": [],
+    "queries": [
+      "Which exact system acts or is intended to change here?",
+      "What decision depends on treating that entity as a system?",
+      "Does the phrase instead name Work, Method, capability, episteme, structure, a service/access claim, or another direct relation?"
+    ]
+  },
+  "A.1.STM": {
+    "keywords": [],
+    "queries": [
+      "Which answer is first unsupported on the map from the expected outside change to the work and systems that make or change the project system-of-interest, and onward to the work and systems that make or change those builders?",
+      "Which supported fact connects this local result next to production or change, release, runtime use, or the expected outside change?",
+      "Which direct pattern owns the missing answer?"
+    ]
+  },
+  "A.2": {
+    "keywords": [
+      "role",
+      "assignment",
+      "holder",
+      "context",
+      "function vs identity",
+      "responsibility",
+      "U.RoleAssignment"
+    ],
+    "queries": [
+      "How to model responsibilities?",
+      "What is the difference between what a thing *is* and what it *does*?"
+    ]
+  },
+  "A.2.1": {
+    "keywords": [
+      "assignment occurrence",
+      "holder System",
+      "role value",
+      "role-taxonomy episteme",
+      "effective ReferenceScheme",
+      "AssignmentInterval",
+      "performedUnderAssignment"
+    ],
+    "queries": [
+      "Which System holds this role under which taxonomy and scheme?",
+      "Are these two assignment episodes the same occurrence?",
+      "Which assignment covers this performed Work?"
+    ]
+  },
+  "A.2.2": {
+    "keywords": [
+      "holder-dependent capability instance",
+      "ability envelope",
+      "measure set",
+      "qualification window",
+      "currentness",
+      "capability-fit condition"
+    ],
+    "queries": [
+      "What is a capability in FPF?",
+      "How do I separate capability from capability statements, evidence, dashboards, and fit predicates?"
+    ]
+  },
+  "A.2.3": {
+    "keywords": [
+      "promise content",
+      "promise content",
+      "accessSpec",
+      "acceptanceSpec",
+      "SLO",
+      "SLA",
+      "claim scope (G)",
+      "Work evidence",
+      "provider/consumer roles"
+    ],
+    "queries": [
+      "What is a promise content in FPF?",
+      "Promise content vs Work vs MethodDescription",
+      "How do access and acceptance differ?",
+      "How is SLO/SLA adjudicated from Work evidence?"
+    ]
+  },
+  "A.2.4": {
+    "keywords": [
+      "evidence-use",
+      "status-use",
+      "source-use",
+      "episteme",
+      "claim",
+      "provenance"
+    ],
+    "queries": [
+      "How is an episteme used as evidence?",
+      "How do I keep evidence use from becoming a role?",
+      "How do I model status use around an episteme?"
+    ]
+  },
+  "A.2.5": {
+    "keywords": [
+      "state machine",
+      "RSG",
+      "role state",
+      "enactability",
+      "role-state evolution",
+      "readiness check",
+      "eligibility tracking",
+      "role lifecycle",
+      "definition of done",
+      "completion criteria",
+      "task readiness"
+    ],
+    "queries": [
+      "How to model the state of a role?",
+      "What is a Role State Graph?",
+      "How to track whether someone is ready and authorized to perform a task?",
+      "How to define when a role is active, suspended, or expired?",
+      "How to separate 'has the credential' from 'is fit to act right now'?",
+      "What does 'done' mean for a task or role?",
+      "How can we track a person's readiness and authorization to perform a task?",
+      "How can we determine whether a role is active, suspended, or expired?",
+      "How can we distinguish authorization from readiness to act now?",
+      "What does ready or done mean for a task or role?"
+    ]
+  },
+  "A.2.6": {
+    "keywords": [],
+    "queries": [
+      "Does this exact slice belong to this exact scope?",
+      "What follows from true, false, or unknown?",
+      "When does local-sense translation require an exact F.9 Bridge occurrence?"
+    ]
+  },
+  "A.2.7": {
+    "keywords": [
+      "role algebra",
+      "specialization (`≤`)",
+      "incompatibility (`⊥`)",
+      "bundles (`⊗`)",
+      "separation of duties (SoD)",
+      "requiredRoles substitution"
+    ],
+    "queries": [
+      "What does `RoleS ≤ RoleG` mean in FPF?",
+      "How do I encode Separation of Duties with `⊥`?",
+      "How do role bundles (`⊗`) work?"
+    ]
+  },
+  "A.2.8": {
+    "keywords": [
+      "commitment",
+      "deontics",
+      "obligation",
+      "recommendation-as-duty",
+      "prohibition",
+      "modality normalization",
+      "scope and validity window",
+      "adjudication hooks",
+      "evidenceRefs",
+      "BCP‑14 (RFC 2119/8174)"
+    ],
+    "queries": []
+  },
+  "A.2.8.PER": {
+    "keywords": [
+      "weak non-prohibition finding",
+      "policy-valid strong grant",
+      "matching dated-work exercise",
+      "checked non-violation",
+      "permission or prohibition conflict",
+      "exact policy rule or decision result"
+    ],
+    "queries": [
+      "Is this a grant, weak finding, later exercise, checked non-violation, or conflict?",
+      "When an instituting act or exercise is claimed, which admitted system acted under which assignment?",
+      "What exact rule or authorized decision settles this conflict, if any?"
+    ]
+  },
+  "A.2.9": {
+    "keywords": [
+      "admitted speech-act Work kind",
+      "actual communicative occurrence",
+      "performing `U.System`",
+      "authority-grounding assignment",
+      "optional `SpeechActRecord`",
+      "utterance description",
+      "institutional target and effect",
+      "publication relation",
+      "evidence carrier"
+    ],
+    "queries": [
+      "What actual communicative Work occurred?",
+      "Who performed it under which assignment?",
+      "Which separate record, publication, commitment, grant, status, or evidence claim is current?"
+    ]
+  },
+  "A.3": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.3.1": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.3.2": {
+    "keywords": [
+      "method-description membership",
+      "claim-bearing episteme",
+      "exact `U.Method` EntityOfConcern",
+      "substantive way-of-doing claim",
+      "same method versus equivalent descriptions",
+      "representation versus publication versus plan versus Work"
+    ],
+    "queries": [
+      "When does an episteme qualify as `U.MethodDescription`?",
+      "Do these descriptions concern the same method, and are their claims equivalent?",
+      "How do I keep a recipe or code artifact separate from enactment?"
+    ]
+  },
+  "A.3.3": {
+    "keywords": [
+      "dynamics",
+      "state space",
+      "transition law",
+      "observation relation",
+      "prediction",
+      "simulation",
+      "calibration"
+    ],
+    "queries": [
+      "How do I model a reusable law of state change?",
+      "When is a process label a dynamics episteme rather than method, work, or transformation?"
+    ]
+  },
+  "A.3.4": {
+    "keywords": [
+      "actual bounded change",
+      "changed referent",
+      "occurrence boundary",
+      "actual subject facts",
+      "continuity and reidentification",
+      "transformation composition"
+    ],
+    "queries": [
+      "What actual change occurred?",
+      "Which referent, boundary, and subject facts identify it?",
+      "When may several transformations compose, and when must the claim stop at a missing-governor or missing-substrate blocker?"
+    ]
+  },
+  "A.3.4.P": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.4": {
+    "keywords": [
+      "design-time",
+      "run-time",
+      "evolution",
+      "versioning",
+      "open-ended state change",
+      "continuous improvement"
+    ],
+    "queries": [
+      "How does FPF handle plan vs. reality?",
+      "How are systems updated?"
+    ]
+  },
+  "A.5": {
+    "keywords": [
+      "FPF architecture",
+      "specialization vs dependancy hierarhies",
+      "modularity",
+      "extensibility"
+    ],
+    "queries": [
+      "What is the architecture of FPF?",
+      "How are new domains added?"
+    ]
+  },
+  "A.6": {
+    "keywords": [
+      "signature and mechanism declarations",
+      "actual occurrence",
+      "publication face",
+      "atomic L/A/D/E claims",
+      "six-way authority-word branch",
+      "Work versus non-Work effect",
+      "separate result",
+      "delivery",
+      "acceptance",
+      "and evidence"
+    ],
+    "queries": [
+      "What exact boundary claim is this?",
+      "Does authority-looking wording mean source, norm or grant, gate, exercise, evaluation or conflict?",
+      "Which actual occurrence and separately governed consequence are current?"
+    ]
+  },
+  "A.6.RSIG": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.6.B": {
+    "keywords": [
+      "atomic L/A/D/E claims",
+      "laws",
+      "entry predicates",
+      "accountable norms and grants",
+      "actual exercise",
+      "evaluated findings",
+      "conflict claims",
+      "observable effects and evidence",
+      "direct obtaining conditions"
+    ],
+    "queries": [
+      "What exact claim does this boundary sentence make?",
+      "Is authority-looking wording a norm or grant, a gate, actual exercise, evaluation, conflict, or source claim?",
+      "How do I keep description from creating the world-side object it describes?"
+    ]
+  },
+  "A.6.C": {
+    "keywords": [
+      "four-question contract lens",
+      "promise content",
+      "speech-act Work",
+      "description and publication",
+      "commitment or grant",
+      "gate",
+      "dated Work",
+      "separate result and evidence",
+      "atomic L/A/D/E rows",
+      "obtaining versus representation",
+      "MVPK no-new-semantics"
+    ],
+    "queries": [
+      "What was promised? What was said, published, or instituted? Which governance claim exists? What happened, what followed, and what supports reliance?",
+      "Which exact direct object and owner belongs to each atomic claim?",
+      "Does a system act under an assignment, or is a document being mistaken for the actor or institutional fact?"
+    ]
+  },
+  "A.6.REL": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.6.0": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.6.1": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.6.2": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.6.3": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.6.3.CSC": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.6.3.CR": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.6.3.RT": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.6.3.NAR": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.6.4": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.6.P": {
+    "keywords": [],
+    "queries": [
+      "What exact referent or relation does this phrase assert?",
+      "Did service wording name Work, a Method, promise content, a software/physical bearer, an arrangement, status, or another direct claim?",
+      "Does the repaired bearer claim really require A.1 evaluation?",
+      "Does an already recovered result need A.1.STM for project-use contribution?"
+    ]
+  },
+  "A.6.P.WMR": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.6.RCD": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.6.RSIR": {
+    "keywords": [
+      "relation-signature-interface-role-slot recovery",
+      "direct relation participant",
+      "participant meaning",
+      "actual participant",
+      "RelationSignature",
+      "SlotSpec",
+      "assertion or description designation",
+      "operation argument or result declaration",
+      "exact operation application and binding",
+      "representation position and correspondence",
+      "role",
+      "role assignment",
+      "interface",
+      "port",
+      "API",
+      "reduced-use source label",
+      "shadow ontology"
+    ],
+    "queries": [
+      "Does this role, slot, field, parameter, argument, or endpoint name an actual participant, a declaration-local SlotSpec, an assertion-side designation, an operation declaration or exact binding, or a representation position?",
+      "When does interface wording mean a module relation, functional port, signature, API publication, service-access claim, or representation?",
+      "When may the source label remain local without making the stronger FPF claim?"
+    ]
+  },
+  "A.6.A": {
+    "keywords": [
+      "affordance",
+      "action invitation",
+      "action-first language",
+      "post-threshold classification",
+      "A.15 docking",
+      "language-state seam"
+    ],
+    "queries": [
+      "How do I repair overloaded affordance language in FPF?",
+      "When does action-guiding language become an action invitation?",
+      "How does A.6.A differ from early cue routing?"
+    ]
+  },
+  "A.6.F": {
+    "keywords": [
+      "function wording",
+      "functional architecture",
+      "FunctionalStructure",
+      "required behavior or effect",
+      "actual transformation",
+      "method-description membership",
+      "capability",
+      "work",
+      "module allocation",
+      "mathematical function",
+      "episteme/publication boundary"
+    ],
+    "queries": [
+      "Which exact governed object or relation does this function-like phrase name?",
+      "Does this procedure, code, solver, recipe, protocol, or algorithm identify one C.2.1 episteme about one admitted method with a substantive way-of-doing claim, or only a representation/publication form?",
+      "Is this required or desired behavior/effect still claim content, or is there an independently grounded actual U.Transformation?",
+      "When is functional architecture one selected FunctionalStructure rather than a separate ontology, module, capability, method, work, or mathematical mapping?"
+    ]
+  },
+  "A.6.M": {
+    "keywords": [
+      "module relation",
+      "component",
+      "interface",
+      "port",
+      "platform",
+      "layer",
+      "stack",
+      "open architecture",
+      "substitutability",
+      "interface specification"
+    ],
+    "queries": [
+      "When is a module relation being claimed?",
+      "How do I keep functional links, signatures, ports, and implemented interfaces distinct?",
+      "When does open architecture require module-interface repair?"
+    ]
+  },
+  "A.6.5": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.6.6": {
+    "keywords": [
+      "base declaration",
+      "basedness",
+      "baseRelation",
+      "SWBD",
+      "witnesses",
+      "scope",
+      "Γ_time",
+      "anchoring",
+      "support-as-basedness",
+      "rebase",
+      "retime",
+      "rescope"
+    ],
+    "queries": [
+      "What is base-declaration discipline?",
+      "How to model base-dependence without anchoring?",
+      "When is support really base-dependence?",
+      "What is a ScopedWitnessedBaseDeclaration (SWBD)?"
+    ]
+  },
+  "A.6.7": {
+    "keywords": [
+      "mechanism suite",
+      "distinct mechanisms",
+      "suite obligations",
+      "spec pins",
+      "CN-Spec",
+      "CG-Spec",
+      "P2W",
+      "planned baseline",
+      "crossing visibility"
+    ],
+    "queries": [
+      "What is a MechSuiteDescription?",
+      "How to describe a bundle of distinct mechanisms without using MechFamilyDescription?",
+      "How do suite obligations differ from gate decisions?"
+    ]
+  },
+  "A.6.9": {
+    "keywords": [
+      "ambiguous sameness",
+      "direct-owner dispatch",
+      "exact F.17 `SchemeSenseCell` endpoints",
+      "different `<ReferenceScheme",
+      "LocalSenseClaim>` projections",
+      "relation-only F.9 Bridge",
+      "separate C.2.1 bounded-use claim",
+      "A.10/B.3 reliance",
+      "actual receiving object",
+      "explicit stop"
+    ],
+    "queries": [
+      "Do these words name one directly governed value or two exact local senses?",
+      "Do the endpoint projections differ, and does this Bridge actually obtain?",
+      "Which separate claim, reliance basis, authorization owner, and actual receiving object govern this use?"
+    ]
+  },
+  "A.6.S": {
+    "keywords": [
+      "signature engineering",
+      "TargetSignature",
+      "ConstructorSignature",
+      "two-signature arrangement",
+      "EFEM",
+      "editioning",
+      "retargeting",
+      "slot/base change lexicon",
+      "MVPK views (no new semantics)",
+      "claim register",
+      "no epistemic agency"
+    ],
+    "queries": [
+      "What is U.SignatureEngineeringPair in FPF?",
+      "How do I model TargetSignature vs ConstructorSignature (and keep Work out of edits)?",
+      "How do slot/base change verbs compose into a reproducible signature evolution account?"
+    ]
+  },
+  "A.6.H": {
+    "keywords": [
+      "wholeness",
+      "integrity",
+      "part-of",
+      "boundary",
+      "environment",
+      "mereology",
+      "completeness",
+      "order/time",
+      "publication-carrier and EntityOfConcern/Description distinction",
+      "role-method-work"
+    ],
+    "queries": [
+      "How to unpack 'whole/part/integrity' in FPF?",
+      "RPR-WHOLE trigger words",
+      "ComponentOf vs ConstituentOf vs PortionOf vs MemberOf vs PhaseOf",
+      "How to separate order/time from mereology?"
+    ]
+  },
+  "A.7": {
+    "keywords": [
+      "category error",
+      "EntityOfConcern ≠ Description episteme",
+      "Role ≠ Work",
+      "ontology"
+    ],
+    "queries": [
+      "How to avoid common modeling mistakes?",
+      "What are FPF's core distinctions?"
+    ]
+  },
+  "A.7.1": {
+    "keywords": [
+      "wrong engineering consequence",
+      "smallest defeated claim",
+      "exact subject and direct owner",
+      "one selected analysis apparatus",
+      "actual system performing under an assignment",
+      "bounded unresolved result"
+    ],
+    "queries": [
+      "Which ontological distinction must change to repair this engineering consequence?",
+      "Can one already selected apparatus reach the result affordably, or is generation or choice genuinely current?"
+    ]
+  },
+  "A.7.2": {
+    "keywords": [
+      "dated FPF applications",
+      "result claims or decisions",
+      "same receiving claim or consequence",
+      "exact used clauses and premises",
+      "actual source-use relations",
+      "context split",
+      "optional convergence"
+    ],
+    "queries": [
+      "Which dated applications produced incompatible results for this receiving use?",
+      "Which exact claims and source uses did each application rely on?",
+      "Is this a real conflict or only different wording, scope, or source function?"
+    ]
+  },
+  "A.7.CP": {
+    "keywords": [
+      "constructive-premise claim",
+      "dated reasoning Work",
+      "exact receiving claim or result",
+      "adopted premise or conditional assumption",
+      "ClaimUsedAsReasoningBasisRelation@Context",
+      "selective reopen"
+    ],
+    "queries": [
+      "Which exact compact claim did this actual reasoning Work use for this exact result?",
+      "Which other result from the same Work remains unaffected if that premise changes?"
+    ]
+  },
+  "A.8": {
+    "keywords": [
+      "universality",
+      "transdisciplinary",
+      "domain-agnostic",
+      "kernel-level U-kind admission"
+    ],
+    "queries": [
+      "How does FPF test whether a U-kind belongs in the universal core?"
+    ]
+  },
+  "A.9": {
+    "keywords": [
+      "composition",
+      "aggregation",
+      "holarchy",
+      "invariants",
+      "roll-up"
+    ],
+    "queries": [
+      "How do rules compose across different scales?",
+      "How to aggregate metrics safely?"
+    ]
+  },
+  "A.10": {
+    "keywords": [
+      "relied-on claim",
+      "bounded use",
+      "claim/result episteme",
+      "source publication",
+      "carrier",
+      "dated work",
+      "direct relation",
+      "evidence-provenance path",
+      "currentness",
+      "rival explanation",
+      "`RelianceDisposition`",
+      "unsupported overread",
+      "actual-use relation"
+    ],
+    "queries": [
+      "What exact claim and bounded use does this source, carrier, credential, dashboard, generated explanation, or review note support?",
+      "How do I recover sources, carriers, work, local result, result episteme, provenance, currentness, bounded reliance, and actual use without letting a path edge create facts?",
+      "When should first-use classification stay in A.2.4, representation go to C.29, or assurance go to B.3?"
+    ]
+  },
+  "A.11": {
+    "keywords": [
+      "parsimony",
+      "composition",
+      "non-redundancy",
+      "kernel growth",
+      "U-kind admission"
+    ],
+    "queries": [
+      "How does FPF avoid adding redundant core concepts?",
+      "When should a candidate be expressed by slots, relations, records, forms, lenses, or an existing root?"
+    ]
+  },
+  "A.12": {
+    "keywords": [],
+    "queries": [
+      "Which exact referent continues as the changed subject?",
+      "Which exact entity occupies the acting side, and has A.1 recognized it as a system?",
+      "Which participation, assignment, transformation, Work, evidence, crossing, or part relation independently obtains?",
+      "Does a qualifier change episteme identity, claim scope, bounded model use, or another directly governed fact?"
+    ]
+  },
+  "A.13": {
+    "keywords": [
+      "agency as role",
+      "agency spectrum",
+      "contextual role assignment",
+      "autonomy grading",
+      "substrate-neutral autonomy"
+    ],
+    "queries": [
+      "How does FPF model agency without minting a root agent kind?",
+      "How do I grade autonomy on an evidence-backed spectrum?"
+    ]
+  },
+  "A.14": {
+    "keywords": [
+      "mereology",
+      "part-of",
+      "ComponentOf",
+      "PortionOf",
+      "PhaseOf",
+      "composition"
+    ],
+    "queries": [
+      "How to model different kinds of 'part-of' relationships?"
+    ]
+  },
+  "A.15": {
+    "keywords": [
+      "role-method-work distinction",
+      "`U.Role`",
+      "`U.Method`",
+      "`U.MethodDescription`",
+      "`U.WorkPlan`",
+      "actual `U.Work`",
+      "work-entry readiness",
+      "contextual enactment",
+      "coordinated-work evidence",
+      "work admission display",
+      "appearance-based reliance boundary"
+    ],
+    "queries": [
+      "How do role, method, plan, readiness, and work stay distinct in FPF?",
+      "When can coordinated work evidence a state that no one report carries?",
+      "When is authorization-looking material an appearance-based reliance repair problem rather than work enactment?",
+      "When does something that looks like permission or prohibition to start work need the governing FPF pattern and project-side record behind it first?"
+    ]
+  },
+  "A.15.1": {
+    "keywords": [
+      "admitted `U.Work` kind",
+      "world-side dated occurrence",
+      "actual performer `U.System`",
+      "covering `U.RoleAssignment`",
+      "`performedUnderAssignment`",
+      "enacted method",
+      "temporal extent",
+      "containing system",
+      "optional direct bindings and resource use",
+      "separate result or consequence"
+    ],
+    "queries": [
+      "What identifies one actual Work occurrence?",
+      "Which system performed it under which assignment?",
+      "Which result, change, production, delivery, evidence, or acceptance claim needs its own direct owner?"
+    ]
+  },
+  "A.15.2": {
+    "keywords": [
+      "intended-work episteme",
+      "present EntityOfConcern",
+      "possible future performance",
+      "`PlanItem` content",
+      "horizon",
+      "performer and capability conditions",
+      "positive or governed-negative local fulfilment assertion",
+      "reusable predicate semantics",
+      "variance",
+      "no actuality by plan"
+    ],
+    "queries": [
+      "What identifies a WorkPlan without inventing future Work?",
+      "When does fulfilment stop at a local assertion or predicate definition, and when does occurrence-facing use justify a relation-kind candidate?",
+      "How are negative fulfilment, missing information, and missing governor distinguished?",
+      "How do planned values, actual Work, B.1.4/B.1.6 aggregates, and F.9 sense Bridges stay separate?"
+    ]
+  },
+  "A.15.3": {
+    "keywords": [
+      "WorkPlan claim content",
+      "intended-performance designator",
+      "exact declaration member",
+      "direct owner",
+      "participant/argument/result meaning",
+      "actual-use predicate",
+      "positive planned designation",
+      "semantic cardinality",
+      "concrete RefKind and policy",
+      "edition pin",
+      "open-world omission",
+      "baseline replay",
+      "no actuality by plan"
+    ],
+    "queries": [
+      "When is a planned value an A.15.3 row rather than ordinary plan content?",
+      "Which exact declaration member and direct owner supply the reusable meaning and later actual-use predicate?",
+      "How do cardinality, alternatives, exclusions, pins, actual use, and later variance remain separately governed?"
+    ]
+  },
+  "A.15.4": {
+    "keywords": [
+      "appearance-based reliance",
+      "exact attempted use",
+      "independent required-position rows",
+      "governing pattern and direct object",
+      "project-side reference",
+      "allowed or blocked use",
+      "orientation and source-finding",
+      "dashboard",
+      "credential",
+      "generated explanation",
+      "copied approval",
+      "publication face"
+    ],
+    "queries": [
+      "Which exact positions are missing before this appearance may guide work or reliance?",
+      "What can be used now, and what remains blocked?",
+      "How do I keep a cue, register row, grant, conflict finding, gate, Work, evidence, and institutional effect separate?"
+    ]
+  },
+  "A.15.5": {
+    "keywords": [
+      "work-entry readiness",
+      "full-kit condition",
+      "readiness before work entry",
+      "commitment disposition",
+      "prospective permission inputs",
+      "retrospective exercise evidence",
+      "resource-readiness refs",
+      "launch gate",
+      "WIP and flow policy",
+      "planned slot fillings",
+      "blocked readiness overread"
+    ],
+    "queries": [
+      "Is this intended work ready to start?",
+      "What is missing before commitment to work entry is honest?",
+      "How do I keep readiness separate from permission, performed work, work plans, gates, resources, and evidence?"
+    ]
+  },
+  "A.15.6": {
+    "keywords": [],
+    "queries": [
+      "What does this project, process, or case claim directly concern?",
+      "Which project-relevant network answers the named question without becoming the project?",
+      "What exact case subject or claim closes here, and which downstream use remains outside?",
+      "Is an actor-side participant or Work claim independently grounded?"
+    ]
+  },
+  "A.15.PROD": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.16": {
+    "keywords": [
+      "language-state",
+      "move",
+      "admissible language-state move",
+      "reopen",
+      "sketch-backoff",
+      "respecify",
+      "retire",
+      "responsibility transfer"
+    ],
+    "queries": [
+      "How do governed epistemes move across the language-state chart?",
+      "What are the admissible language-state move kinds in FPF?"
+    ]
+  },
+  "A.16.0": {
+    "keywords": [
+      "trajectory account",
+      "lineage",
+      "fork",
+      "merge",
+      "supersedes",
+      "responsibility transfer",
+      "heavy history"
+    ],
+    "queries": [
+      "When do I publish a language-state trajectory account?",
+      "How does FPF record lineage and branch history?"
+    ]
+  },
+  "A.16.1": {
+    "keywords": [
+      "cue pack",
+      "pre-articulation",
+      "early publication",
+      "cue nucleus",
+      "primary witness",
+      "candidate route cues"
+    ],
+    "queries": [
+      "What is a PreArticulationCuePack?",
+      "How do I preserve early cues before `RoutedCueSet` publication?"
+    ]
+  },
+  "A.16.2": {
+    "keywords": [
+      "reopen",
+      "backoff",
+      "respecify",
+      "retire",
+      "retreat",
+      "branch withdrawal",
+      "authority withdrawal"
+    ],
+    "queries": [
+      "How do I admissibly reopen or back off a language-state publication?",
+      "How do I retire a branch without silent deletion?"
+    ]
+  },
+  "A.17": {
+    "keywords": [
+      "characteristic",
+      "measurement",
+      "property",
+      "attribute",
+      "dimension",
+      "axis"
+    ],
+    "queries": [
+      "What is the correct term for a measurable property?",
+      "How to define a metric?"
+    ]
+  },
+  "A.18": {
+    "keywords": [
+      "CSLC",
+      "Characteristic",
+      "Scale",
+      "Level",
+      "Coordinate",
+      "polarity",
+      "ordinal vs cardinal scale",
+      "one-characteristic-one-scale rule",
+      "lawful comparability",
+      "no illegal averaging",
+      "measurement interpretability"
+    ],
+    "queries": [
+      "What must be declared before a value is interpretable?",
+      "When can two measurements be compared?",
+      "Why can ordinal labels not be averaged?"
+    ]
+  },
+  "A.19": {
+    "keywords": [
+      "CharacteristicSpace",
+      "U.Dynamics.stateSpace",
+      "state trajectories",
+      "declared Characteristics and Scales",
+      "subspace",
+      "embedding",
+      "product",
+      "structural overlays",
+      "coordinatewise comparability",
+      "role-specific space refs stay outside A.19",
+      "multi-dimensional tracking",
+      "system condition",
+      "measurable properties"
+    ],
+    "queries": [
+      "How do I declare the state space a dynamics model moves through?",
+      "How do Characteristics become a multi-coordinate state space?",
+      "What stays inside A.19 and what belongs in source-set/space substrate or interpretive-view patterns?",
+      "How to define all the measurable properties of a system in one place?",
+      "How to track a system's condition across multiple dimensions consistently?",
+      "How to avoid mixing incompatible units or scales when comparing system states?",
+      "How can we define all measurable system properties in one place?",
+      "How can we track system state across several parameters at once?",
+      "How can we avoid mixing incompatible units or scales when comparing states?"
+    ]
+  },
+  "A.19.ECS": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.19.SPR": {
+    "keywords": [],
+    "queries": []
+  },
+  "A.19.SOURCE-SET-SPACE-SUBSTRATE": {
+    "keywords": [
+      "source set",
+      "search-side space ref",
+      "outcome-side space ref",
+      "source-set/space substrate",
+      "SpaceRefRelationKind",
+      "SourceToOutcomeRelation",
+      "DistortionPosture",
+      "SourceSetRef",
+      "sameDeclaredSpaceAs",
+      "distinctDeclaredSpaceFrom"
+    ],
+    "queries": [
+      "How do I declare one source set plus search-side and outcome-side refs?",
+      "How do I keep source-to-outcome relation and distortion posture explicit?",
+      "When do search and outcome refs resolve to the same declared CharacteristicSpace?"
+    ]
+  },
+  "A.19.DECLARED-SUBSTRATE-INTERPRETIVE-VIEW": {
+    "keywords": [
+      "declared-substrate interpretive view",
+      "thin interpretation",
+      "atlas-form interpretation",
+      "DeclaredSubstrateInterpretiveView",
+      "DeclaredSubstrateAtlasView",
+      "TraditionAtlasView",
+      "TypedSetViews",
+      "interpretive qualifiers",
+      "interpretive-only reading"
+    ],
+    "queries": [
+      "When do I use an interpretive view over an already-declared substrate?",
+      "When is thin interpretation enough and when do I need atlas form?",
+      "How does TraditionAtlasView stay a local specialization instead of the generic head?"
+    ]
+  },
+  "A.19.CN": {
+    "keywords": [
+      "CN-frame",
+      "CN-Spec",
+      "chart",
+      "comparability modes",
+      "normalization refs",
+      "indicator policy refs",
+      "Γ-fold governance",
+      "registry",
+      "bridges",
+      "CL/loss notes",
+      "WLNK discipline",
+      "conformance checklist",
+      "SCR/RSCR harness",
+      "RSG admission hooks",
+      "measurement governance",
+      "dashboard consistency",
+      "cross-team reporting"
+    ],
+    "queries": [
+      "What is a CN-frame in FPF?",
+      "How does CN-Spec govern comparability and normalization by reference?",
+      "How do CN-frames use bridges and CL for cross-context reuse?",
+      "What are the conformance and regression checks for CN-frames?",
+      "How to make sure different teams measure things the same way?",
+      "How to govern metrics so dashboards across departments are comparable?",
+      "How to prevent hidden changes in how numbers are calculated?",
+      "How can we ensure different teams measure indicators consistently?",
+      "How can we govern metrics so dashboards across departments are comparable?",
+      "How can we prevent hidden changes in metric calculations?"
+    ]
+  },
+  "A.19.CHR": {
+    "keywords": [
+      "CHR suite",
+      "characterization core",
+      "CN-Spec",
+      "CG-Spec",
+      "admissibility gate",
+      "suite obligations",
+      "set-return selection",
+      "tri-state guard decision",
+      "crossing visibility",
+      "Bridge-only transport",
+      "penalties→R_eff",
+      "planned baseline",
+      "`SlotFillingsPlanItem`",
+      "P2W seam",
+      "no hidden scalarization",
+      "no hidden thresholds"
+    ],
+    "queries": [
+      "What is CHRMechanismSuite in FPF?",
+      "How do CHR mechanisms cite CN-Spec/CG-Spec?",
+      "How to enforce planned slot filling in WorkPlanning only?",
+      "How to keep UNM/UINDM/ULSAM explicit (no hidden tails)?"
+    ]
+  },
+  "A.19.UNM": {
+    "keywords": [
+      "normalization",
+      "`CV→NCV`",
+      "`≡_UNM`",
+      "`NormalizationMethodId`",
+      "`NormalizationMethodInstanceId`",
+      "`NormalizationInvariant[*]`",
+      "`NormalizationFixSpec`",
+      "validity window (no implicit “latest”)",
+      "fail-closed tri-state guard (`pass|degrade|abstain`)",
+      "`CN-Spec.normalization`",
+      "`CN-Spec.comparability.mode`",
+      "Bridge-only transport + ReferencePlane/CL pins",
+      "penalties→`R`/`R_eff` only"
+    ],
+    "queries": [
+      "What is UNM in FPF?",
+      "How does FPF normalize coordinate values (CV→NCV)?",
+      "What is ≡_UNM and why quotients/fix matter?",
+      "How does CN-Spec.comparability.mode route normalization-based comparability?"
+    ]
+  },
+  "A.19.UINDM": {
+    "keywords": [
+      "indicatorization",
+      "indicator set",
+      "`IndicatorChoicePolicy`",
+      "`CN-Spec.indicator_policy`",
+      "CHR suite stage `indicatorize`",
+      "tri-state admissibility (`pass|degrade|abstain`)",
+      "evidence-gated indicator choice",
+      "Bridge+CL transport visibility",
+      "“no NCV⇒indicator”"
+    ],
+    "queries": [
+      "What is UINDM in FPF?",
+      "How does FPF choose indicators?",
+      "Difference between measurable characteristic and indicator",
+      "How to make indicator choice auditable?"
+    ]
+  },
+  "A.19.USCM": {
+    "keywords": [
+      "scoring",
+      "score profile",
+      "`ScoringMethodDescription`",
+      "ScaleComplianceProfile (SCP)",
+      "CSLC-lawful transforms",
+      "`CG-Spec.MinimalEvidence`",
+      "tri-state admissibility (`pass|degrade|abstain`)",
+      "“no implicit UNM”",
+      "vector scores by default",
+      "CHR suite stage `score`"
+    ],
+    "queries": [
+      "What is USCM in FPF?",
+      "How does FPF do lawful scoring (SCP-first)?",
+      "How are scoring methods pinned and audited in CHR?",
+      "How does USCM handle unknowns and evidence?"
+    ]
+  },
+  "A.19.ULSAM": {
+    "keywords": [
+      "lawful aggregation",
+      "scale-lawful fold",
+      "`fold_Γ?`",
+      "`ΓFoldRef`",
+      "`CG-Spec.Γ_fold`",
+      "`CG-Spec.SCP`",
+      "`MinimalEvidence`",
+      "tri-state guard (`pass|degrade|abstain`)",
+      "contributor set",
+      "no hidden aggregation",
+      "penalties→`R_eff` only"
+    ],
+    "queries": [
+      "What is ULSAM in FPF?",
+      "How does FPF do lawful aggregation / Γ-fold?",
+      "Why is fold_Γ a separate CHR stage?",
+      "How to avoid ordinal averaging in FPF?"
+    ]
+  },
+  "A.19.CPM": {
+    "keywords": [
+      "comparison",
+      "comparator",
+      "`ComparatorSpecRef`",
+      "`ComparatorSet`",
+      "set-valued comparison outcome",
+      "partial order",
+      "tri-state admissibility (`pass|degrade|abstain`)",
+      "`MinimalEvidence`",
+      "“no hidden scalarization/totalization”",
+      "Bridge+CL transport",
+      "penalties→`R_eff` only",
+      "choose between alternatives",
+      "evaluate options",
+      "framework selection",
+      "decision making"
+    ],
+    "queries": [
+      "What is CPM in FPF?",
+      "How does FPF compare two profiles admissibly?",
+      "Why comparison outputs are set-valued?",
+      "How does CPM handle unknown evidence?",
+      "How to compare two or more approaches fairly?",
+      "How to choose between competing alternatives for a project?",
+      "How to evaluate frameworks or tools against each other?",
+      "How can we compare two or more approaches fairly?",
+      "How can we choose between competing project options?",
+      "How can we evaluate frameworks or tools against each other?"
+    ]
+  },
+  "A.19.SelectorMechanism": {
+    "keywords": [
+      "selection kernel",
+      "set-returning selection",
+      "selected set",
+      "`SelectEligibility`",
+      "tri-state guard (`pass|degrade|abstain`)",
+      "no hidden thresholds",
+      "no hidden scalarization",
+      "`CriteriaSlot`",
+      "`ComparisonResultSlot`",
+      "`TaskSignatureSlot`",
+      "evidence gating",
+      "`CG-Spec.MinimalEvidence`",
+      "CHR suite stage `select`",
+      "Bridge+CL/ReferencePlane transport",
+      "penalties→`R_eff` only"
+    ],
+    "queries": [
+      "What is SelectorMechanism in FPF?",
+      "Why does selection return a selected set by default?",
+      "How does SelectEligibility handle unknown or insufficient evidence?",
+      "How does FPF prevent hidden thresholds and scalarization in selection?"
+    ]
+  },
+  "A.20": {
+    "keywords": [
+      "flow",
+      "ConstraintValidity",
+      "Eulerian",
+      "TransformationFlowStructure",
+      "GateFit",
+      "MVPK",
+      "SquareLaw",
+      "Sentinel",
+      "PathSlice"
+    ],
+    "queries": [
+      "What is ConstraintValidity in FPF?",
+      "What is the Eulerian stance in FPF flows?",
+      "How does E.18 relate to flows?"
+    ]
+  },
+  "A.21": {
+    "keywords": [
+      "OperationalGate",
+      "GateFit",
+      "GateProfile",
+      "GateChecks",
+      "join-semilattice",
+      "`GateDecision`",
+      "`DecisionLog`",
+      "EquivalenceWitness",
+      "LaunchGate",
+      "CV⇒GF"
+    ],
+    "queries": [
+      "What is GateProfilization in FPF?",
+      "How does OperationalGate aggregate GateChecks?",
+      "What is the CV⇒GF activation predicate?"
+    ]
+  },
+  "A.22": {
+    "keywords": [],
+    "queries": [
+      "Which organization is selected for this named use?",
+      "Which exact constituents, obtaining relations, and applied constraints identify it?",
+      "What remains outside the structure, and when must the use stop?"
+    ]
+  },
+  "A.22.CGUS": {
+    "keywords": [],
+    "queries": [
+      "When is a readable chain only a provisional demonstration?",
+      "How do I preserve branches, joins, cycles, alternatives, and nested network positions behind one walkthrough?"
+    ]
+  },
+  "B.1": {
+    "keywords": [],
+    "queries": []
+  },
+  "B.1.1": {
+    "keywords": [],
+    "queries": []
+  },
+  "B.1.2": {
+    "keywords": [],
+    "queries": [
+      "Which exact entity and decision are current?",
+      "Which constituents are parts and which exact relations only cross the selected boundary?",
+      "What direct result makes a use-relative inclusion or exclusion current?",
+      "Does the joint organization itself require an A.22 structure?"
+    ]
+  },
+  "B.1.3": {
+    "keywords": [
+      "knowledge aggregation",
+      "epistemic",
+      "provenance",
+      "trust",
+      "KD-CAL"
+    ],
+    "queries": [
+      "How to combine epistemes?",
+      "How does trust propagate in FPF?"
+    ]
+  },
+  "B.1.4": {
+    "keywords": [],
+    "queries": []
+  },
+  "B.1.5": {
+    "keywords": [
+      "method composition",
+      "`methodPartOf`",
+      "submethod",
+      "order-sensitive method",
+      "method relation structure",
+      "composite-Method boundary account",
+      "typed join",
+      "A.6.RCD claim disposition",
+      "capability continuity",
+      "work enactment",
+      "method/work granularity",
+      "assurance hooks"
+    ],
+    "queries": [
+      "How do I combine methods?",
+      "When is a step a submethod rather than a work part, plan item, or description node?",
+      "Which part Methods stand in `methodPartOf`, and how do other whole-forming claims stop at A.6.RCD's lightest sufficient disposition?",
+      "How do the composite-Method boundary account, typed joins, Gamma_ctx, Gamma_work, and B.3 assurance hooks stay distinct?"
+    ]
+  },
+  "B.1.6": {
+    "keywords": [
+      "work-resource aggregation",
+      "resource Characteristic",
+      "C.16 measurement work/result episteme",
+      "typed input",
+      "Scale/Unit",
+      "dated work set",
+      "work parthood/phase/overlap",
+      "edition-pinned aggregation policy",
+      "allocation/deduplication",
+      "aggregation work",
+      "typed aggregation result",
+      "uncertainty",
+      "provenance"
+    ],
+    "queries": [
+      "How do I aggregate measured resource use over an exact dated work set without double counting shared stocks, people, meters, tools, data, or time?",
+      "Which measurement results, work/overlap relations, policy edition, actual aggregation work, typed result, result episteme, and provenance must remain separately recoverable?",
+      "When is a ledger, plan, phase label, method, or dashboard not an obtained work-resource aggregation?"
+    ]
+  },
+  "B.2": {
+    "keywords": [],
+    "queries": [
+      "Which exact existing whole currently explains the claim?",
+      "Which separately governed facts defeat that explanation?",
+      "What exact new whole and admitted kind are proposed?",
+      "Does the complete recognition and reidentification basis pass, fail, or remain unknown?"
+    ]
+  },
+  "B.2.P": {
+    "keywords": [],
+    "queries": []
+  },
+  "B.2.2": {
+    "keywords": [],
+    "queries": [
+      "Which exact new whole did B.2 identify?",
+      "Does that same individual pass complete A.1 and the direct U.System criterion?",
+      "Which additional result-system claims independently obtain?",
+      "Which component evidence remains applicable to the recognized result system?"
+    ]
+  },
+  "B.2.3": {
+    "keywords": [],
+    "queries": []
+  },
+  "B.2.4": {
+    "keywords": [],
+    "queries": []
+  },
+  "B.2.5": {
+    "keywords": [],
+    "queries": []
+  },
+  "B.3": {
+    "keywords": [
+      "trust",
+      "assurance",
+      "reliability",
+      "F-G-R",
+      "formality",
+      "scope",
+      "congruence",
+      "evidence",
+      "claim-support posture",
+      "authority-looking labels",
+      "dashboard tiles",
+      "probe/distributed/export/causal assurance"
+    ],
+    "queries": [
+      "How is trust calculated in FPF?",
+      "When does an authority-looking label or dashboard tile fail to raise assurance?",
+      "How does FPF handle evidence and confidence?"
+    ]
+  },
+  "B.3.3": {
+    "keywords": [
+      "assurance levels",
+      "L0-L2",
+      "TA",
+      "VA",
+      "LA",
+      "typing",
+      "verification",
+      "validation"
+    ],
+    "queries": [
+      "What are the assurance levels in FPF?",
+      "How does an assurance record mature in FPF?"
+    ]
+  },
+  "B.3.4": {
+    "keywords": [
+      "evidence aging",
+      "decay",
+      "freshness",
+      "epistemic debt",
+      "stale data"
+    ],
+    "queries": [
+      "How does FPF handle outdated evidence?",
+      "What is epistemic debt?"
+    ]
+  },
+  "B.3.5": {
+    "keywords": [
+      "grounding",
+      "constructive trace",
+      "working model",
+      "assurance layer",
+      "CT2R",
+      "Compose-CAL"
+    ],
+    "queries": [
+      "How are FPF models grounded in evidence?",
+      "What is the CT2R-LOG?"
+    ]
+  },
+  "B.4": {
+    "keywords": [
+      "evolution loop",
+      "DesignRunTag feedback",
+      "observe-notice-stabilize-route",
+      "drift repair",
+      "knowledge refinement",
+      "method refinement",
+      "open-ended evolution"
+    ],
+    "queries": [
+      "How does FPF evolve a system or episteme without design-reality drift?",
+      "Where do knowledge and method instantiation sit in the canonical loop?",
+      "Where does pre-abductive routing sit?"
+    ]
+  },
+  "B.4.1": {
+    "keywords": [
+      "routed cue set",
+      "route plurality",
+      "route selection",
+      "pre-abductive seam",
+      "task-family specialization route"
+    ],
+    "queries": [
+      "How do under-articulated cues become routed before endpoint claim publication?",
+      "When should a cue become a routed cue set instead of an abductive prompt?"
+    ]
+  },
+  "B.5": {
+    "keywords": [
+      "reasoning",
+      "problem-solving",
+      "Abduction-Deduction-Induction",
+      "scientific method"
+    ],
+    "queries": [
+      "How does FPF model problem-solving?",
+      "What is the canonical reasoning cycle?"
+    ]
+  },
+  "B.5.1": {
+    "keywords": [
+      "development state cycle",
+      "open-ended progression",
+      "state machine",
+      "Explore",
+      "Shape",
+      "Evidence",
+      "Operate"
+    ],
+    "queries": [
+      "What states can project work and its records pass through in FPF?"
+    ]
+  },
+  "B.5.2": {
+    "keywords": [
+      "abduction",
+      "explanatory prompt",
+      "candidate hypotheses",
+      "plausibility filters",
+      "origin trace",
+      "route-to-hypothesis"
+    ],
+    "queries": [
+      "How does FPF model abductive hypothesis generation?",
+      "What is the abductive loop?"
+    ]
+  },
+  "B.5.2.0": {
+    "keywords": [
+      "abductive prompt",
+      "prompt species",
+      "rival-set discipline",
+      "threshold crossing",
+      "explanation-ready cue"
+    ],
+    "queries": [
+      "When is a routed cue ready to enter abduction?",
+      "What prompt species does FPF distinguish before hypothesis work begins?"
+    ]
+  },
+  "B.5.2.1": {
+    "keywords": [
+      "creative abduction",
+      "NQD binding",
+      "Γ_nqd.generate",
+      "Creativity-CHR",
+      "Q-front",
+      "declared Q components",
+      "retained exploration/archive evidence",
+      "Novelty@context",
+      "ΔDiversity_P",
+      "E/E-LOG",
+      "DecisionSubject note"
+    ],
+    "queries": [
+      "How do I make abductive idea generation instrumented instead of ad-hoc?",
+      "How does B.5.2 delegate generation to C.18 and pool policy to C.19?",
+      "Why does creative abduction return a front/evidence set rather than one bundled winner?"
+    ]
+  },
+  "B.5.3": {
+    "keywords": [
+      "domain vocabulary",
+      "concept bridge",
+      "local sense",
+      "bounded context",
+      "bridge scope",
+      "role assignment boundary"
+    ],
+    "queries": [
+      "How does FPF integrate domain-specific language without minting false kinds?",
+      "When is a domain word a role, a kind, a characteristic, or a local sense?"
+    ]
+  },
+  "C.1": {
+    "keywords": [
+      "physical system",
+      "composition",
+      "conservation law",
+      "stock-flow",
+      "energy",
+      "mass",
+      "resource flow",
+      "U.System"
+    ],
+    "queries": [
+      "How to model physical systems in FPF?",
+      "What conservation or stock-flow claim is being made?",
+      "How do resources move through a system?"
+    ]
+  },
+  "C.2": {
+    "keywords": [
+      "knowledge",
+      "epistemic",
+      "evidence",
+      "trust",
+      "assurance",
+      "F-G-R",
+      "Formality",
+      "ClaimScope",
+      "Reliability",
+      "provenance"
+    ],
+    "queries": [
+      "What is F-G-R?",
+      "How does FPF handle evidence and trust?",
+      "How to model a scientific theory?"
+    ]
+  },
+  "C.2.1": {
+    "keywords": [],
+    "queries": []
+  },
+  "C.2.P": {
+    "keywords": [],
+    "queries": []
+  },
+  "C.2.2": {
+    "keywords": [
+      "Reliability (R)",
+      "warrant",
+      "evidence-bound",
+      "F–G–R",
+      "ClaimScope (G)",
+      "Bridge-only reuse",
+      "Congruence Level (CL / CL^k / CL^plane)",
+      "weakest-link",
+      "pathwise justification (PathId)",
+      "TA/VA/LA lanes",
+      "no implicit averaging"
+    ],
+    "queries": [
+      "What is R in F–G–R?",
+      "How does FPF propagate reliability?",
+      "How do CL penalties route under transport?",
+      "Bridge-only reuse of claims in FPF"
+    ]
+  },
+  "C.2.2a": {
+    "keywords": [
+      "language-state chart",
+      "characteristic space",
+      "position claim",
+      "partial coordinates",
+      "thresholds",
+      "governed episteme publication"
+    ],
+    "queries": [
+      "What is the language-state space in FPF?",
+      "How do I publish a position claim before endpoint claim publication?"
+    ]
+  },
+  "C.2.3": {
+    "keywords": [
+      "Formality",
+      "F-scale",
+      "F0-F9",
+      "rigor",
+      "proof",
+      "specification",
+      "language-state separation"
+    ],
+    "queries": [
+      "What is Formality F in FPF?",
+      "How does F differ from articulation, closure, or anchoring?"
+    ]
+  },
+  "C.2.LS": {
+    "keywords": [
+      "facet profile",
+      "articulation",
+      "closure",
+      "anchoring",
+      "representation factors",
+      "threshold package"
+    ],
+    "queries": [
+      "How are language-state facets named together in FPF?",
+      "What is a LanguageStateFacetProfile?"
+    ]
+  },
+  "C.2.4": {
+    "keywords": [
+      "articulation explicitness",
+      "semantic shape",
+      "under-articulated cue",
+      "explicitness",
+      "early repair readiness"
+    ],
+    "queries": [
+      "How explicit is a governed episteme already?",
+      "What is ArticulationExplicitness in FPF?"
+    ]
+  },
+  "C.2.5": {
+    "keywords": [
+      "closure degree",
+      "candidate-space closure",
+      "reopen",
+      "rival routes",
+      "settledness"
+    ],
+    "queries": [
+      "How closed is the current candidate space?",
+      "What is LanguageStateClosureDegree in FPF?"
+    ]
+  },
+  "C.2.6": {
+    "keywords": [
+      "anchoring mode",
+      "embodiment",
+      "trace",
+      "model state",
+      "document",
+      "operator loop"
+    ],
+    "queries": [
+      "How is a language-state claim anchored in FPF?",
+      "What is LanguageStateAnchoringMode?"
+    ]
+  },
+  "C.2.7": {
+    "keywords": [
+      "representation factors",
+      "locality",
+      "sparsity",
+      "symbolicity",
+      "factor bundle",
+      "representation organization"
+    ],
+    "queries": [
+      "How does FPF describe representation factors in language-state work?",
+      "What is the representation-factor bundle?"
+    ]
+  },
+  "C.2.P.DR": {
+    "keywords": [],
+    "queries": []
+  },
+  "C.3": {
+    "keywords": [
+      "bounded-context local kind",
+      "intent-bearing KindSignature",
+      "effective ReferenceScheme",
+      "three-valued candidate judgment",
+      "optional slice-indexed extension",
+      "SubkindOf",
+      "KindBridge"
+    ],
+    "queries": [
+      "Which local kind and exact signature edition govern this classification?",
+      "Is this candidate in, out, or unknown?",
+      "Did the bounded context change, or only the scheme edition or observation slice?"
+    ]
+  },
+  "C.3.1": {
+    "keywords": [
+      "local kind",
+      "U.SubkindOf direct relation",
+      "relation-obtaining predicate",
+      "relation occurrence",
+      "assertion episteme",
+      "partial order"
+    ],
+    "queries": [
+      "What makes a subkind relation obtain?",
+      "When do I need an identified subkind-relation occurrence rather than an assertion?"
+    ]
+  },
+  "C.3.2": {
+    "keywords": [
+      "local kind",
+      "KindSignature declaration episteme",
+      "candidate classification",
+      "true/false/unknown",
+      "KindExtension representation"
+    ],
+    "queries": [
+      "What makes this exact candidate count as a local kind in this slice?",
+      "How do I distinguish kind intent, classification, evidence, and extension?"
+    ]
+  },
+  "C.3.3": {
+    "keywords": [
+      "KindBridge direct relation",
+      "bridge assertion episteme",
+      "target judgment",
+      "CL^k",
+      "loss",
+      "R penalty"
+    ],
+    "queries": [
+      "Which exact source and target local kinds are related?",
+      "What does the bridge assertion add without creating target truth?"
+    ]
+  },
+  "C.3.4": {
+    "keywords": [
+      "RoleMask declaration episteme",
+      "masked judgment",
+      "candidate-feature constraint",
+      "vocabulary binding",
+      "stable-refinement review"
+    ],
+    "queries": [
+      "How do I tailor a local kind use without cloning or silently admitting another kind?",
+      "What must a guard-addressable RoleMask edition expose?"
+    ]
+  },
+  "C.3.5": {
+    "keywords": [
+      "KindAT",
+      "K0-K3",
+      "editorial facet",
+      "declaration planning",
+      "assurance planning"
+    ],
+    "queries": [
+      "Which intentional abstraction stance does this exact local kind use?",
+      "Where should declaration or assurance effort go without gating on abstraction?"
+    ]
+  },
+  "C.3.A": {
+    "keywords": [
+      "declaration compatibility",
+      "exact candidate judgment",
+      "true/false/unknown",
+      "guard refusal",
+      "regulatory",
+      "assurance",
+      "ESG",
+      "Method-Work"
+    ],
+    "queries": [
+      "How do I check a claim quantified over a kind without inventing a candidate?",
+      "How do I apply it to this exact candidate?",
+      "How do I keep an actual Work occurrence distinct?"
+    ]
+  },
+  "C.5": {
+    "keywords": [
+      "resource use",
+      "dated consumption",
+      "work cost",
+      "budget",
+      "cost bearer",
+      "resource ledger",
+      "efficiency claim"
+    ],
+    "queries": [
+      "How does FPF model resource use by work?",
+      "How to keep resource cost separate from evidence or value?",
+      "What resource ledger supports a work-cost claim?"
+    ]
+  },
+  "C.6": {
+    "keywords": [
+      "proof use",
+      "inference rule",
+      "typed guard",
+      "claim entailment",
+      "proof obligation",
+      "reasoning support"
+    ],
+    "queries": [
+      "What inference is licensed here?",
+      "When is a proof claim separate from evidence?",
+      "Which typed rule supports this conclusion?"
+    ]
+  },
+  "C.9": {
+    "keywords": [
+      "agency",
+      "autonomy",
+      "responsibility threshold",
+      "decision capacity",
+      "intervention capacity",
+      "agentive role"
+    ],
+    "queries": [
+      "What agency claim is being made?",
+      "When does a system or role holder count as agentive enough for this decision?",
+      "How should autonomy be characterized without minting a new agent kind?"
+    ]
+  },
+  "C.11": {
+    "keywords": [
+      "decision theory",
+      "DecisionSubject",
+      "OptionSet",
+      "comparison basis",
+      "ChoiceRule",
+      "ChoiceResult",
+      "question order",
+      "probe-worthiness",
+      "non-shared comparison frame",
+      "ValueOfInformation",
+      "ValueOfComputation",
+      "choose now",
+      "reject current set",
+      "probe again",
+      "reroute"
+    ],
+    "queries": [
+      "When should one choose now versus probe again?",
+      "What must be explicit before a choice among already-available options is lawful?",
+      "When do question order or incompatible frames require C.26 rather than ordinary choice?"
+    ]
+  },
+  "C.13": {
+    "keywords": [
+      "mereology",
+      "part-whole",
+      "composition",
+      "sum",
+      "set",
+      "slice",
+      "construction account"
+    ],
+    "queries": [
+      "How can I show, without creating it by notation, how already identified constituents and relations assemble a whole, form a collection, or distinguish an aspect?",
+      "What is Compose-CAL?"
+    ]
+  },
+  "C.14": {
+    "keywords": [
+      "system-of-systems",
+      "infrastructure",
+      "inter-system dependency",
+      "service network",
+      "infrastructure boundary",
+      "operational coupling"
+    ],
+    "queries": [
+      "How to model a complex infrastructure such as a power grid?",
+      "Which cross-system dependency changes the claim?",
+      "When is this a system-of-systems rather than one system?"
+    ]
+  },
+  "C.16": {
+    "keywords": [
+      "measurand",
+      "measurement subject",
+      "Characteristic",
+      "Scale",
+      "Level/Coordinate",
+      "Unit",
+      "polarity",
+      "method",
+      "model",
+      "calibration",
+      "dated measurement work",
+      "actual bindings",
+      "input/output quantities",
+      "uncertainty",
+      "measurement result",
+      "C.2.1 result episteme",
+      "comparability",
+      "provenance",
+      "bounded later use"
+    ],
+    "queries": [
+      "How do I recover a complete measurement chain from a reading, score, rating, sensor indication, dashboard value, or claimed comparison?",
+      "How do I distinguish emitted output, indication, actual subject state, measurement result, result episteme, diagnosis, criterion verdict, and decision?",
+      "When should ambiguous measurement wording go first to C.16.P, comparison or selection go to A.19, and provenance go to A.10/G.6?"
+    ]
+  },
+  "C.16.P": {
+    "keywords": [],
+    "queries": []
+  },
+  "C.16.Q": {
+    "keywords": [],
+    "queries": []
+  },
+  "C.17": {
+    "keywords": [
+      "Creativity-CHR",
+      "Novelty@context",
+      "Use-Value and ValueGain",
+      "Surprise",
+      "ConstraintFit",
+      "Diversity_P",
+      "Originality",
+      "ResourceEfficiency",
+      "MM-CHR measurement templates",
+      "ReferenceBase",
+      "evidence",
+      "portfolio composition"
+    ],
+    "queries": [
+      "How do I make a creativity claim measurable and evidence-bound?",
+      "Which characteristics distinguish novelty, value, surprise, constraint fit, diversity, originality, and resource efficiency?",
+      "How do creative outputs compose from individuals to portfolios?"
+    ]
+  },
+  "C.18": {
+    "keywords": [
+      "NQD-CAL",
+      "Γ_nqd.generate",
+      "Γ_nqd.updateArchive",
+      "Γ_nqd.illuminate",
+      "Γ_nqd.selectFront",
+      "DescriptorMapRef",
+      "DistanceDefRef",
+      "NQDArchive",
+      "CandidateSet",
+      "Front vs ExplorationArchive",
+      "IlluminationSummary report-only telemetry",
+      "EmitterPolicyRef",
+      "InsertionPolicyRef",
+      "provenance editions"
+    ],
+    "queries": [
+      "How does FPF run open-ended search without illegal scalarization?",
+      "What is the difference between a front and an exploration archive?",
+      "What provenance must an NQD generation call publish?"
+    ]
+  },
+  "C.18.1": {
+    "keywords": [
+      "scaling law",
+      "scale variables (S)",
+      "compute‑elasticity",
+      "data‑elasticity",
+      "resolution‑elasticity",
+      "exponent class",
+      "knee",
+      "diminishing returns"
+    ],
+    "queries": [
+      "How to make search scale‑savvy?",
+      "Where to declare scale variables and expected elasticities?"
+    ]
+  },
+  "C.19": {
+    "keywords": [
+      "explore-exploit",
+      "live candidate pool",
+      "pool-policy result",
+      "widen",
+      "keep frontier",
+      "narrow to subset",
+      "sunset line",
+      "reroute",
+      "EmitterPolicy",
+      "InsertionPolicy",
+      "lens id",
+      "dominance default routing",
+      "DecisionSubject clarification"
+    ],
+    "queries": [
+      "How should one govern a still-live candidate pool?",
+      "When do I widen, keep frontier, narrow, sunset, or reroute?",
+      "How does pool policy stay separate from C.11 choice, C.24 planning, and G.5 publication?"
+    ]
+  },
+  "C.19.1": {
+    "keywords": [],
+    "queries": []
+  },
+  "C.19.2": {
+    "keywords": [
+      "use-bounded apparatus application",
+      "one selected apparatus",
+      "configuration or adaptation work",
+      "setup cost",
+      "declared result and guarantee",
+      "reuse horizon"
+    ],
+    "queries": []
+  },
+  "C.20": {
+    "keywords": [
+      "discipline",
+      "**U.AppliedDiscipline**",
+      "**U.Transdiscipline**",
+      "episteme corpus",
+      "standards",
+      "institutions",
+      "**Γ_disc**"
+    ],
+    "queries": [
+      "How to compose and assess a discipline in FPF?"
+    ]
+  },
+  "C.21": {
+    "keywords": [
+      "discipline",
+      "field health",
+      "reproducibility",
+      "standardisation",
+      "alignment",
+      "disruption"
+    ],
+    "queries": [
+      "How to measure the health of a scientific field?",
+      "What is reproducibility rate?"
+    ]
+  },
+  "C.22": {
+    "keywords": [],
+    "queries": [
+      "When is a stable problem-side episteme ready for a selector-facing TaskSignature?",
+      "Which typed fields and unknowns belong in its exact edition?",
+      "How do I relate the problem-side episteme, TaskSignature, and receiving use without preselecting a method?"
+    ]
+  },
+  "C.22.1": {
+    "keywords": [],
+    "queries": []
+  },
+  "C.22.PFR": {
+    "keywords": [
+      "actual adverse condition",
+      "exact problem-for entity and use",
+      "independent criterion-applicability relation",
+      "condition-to-predicate input rule",
+      "actual adverse episode",
+      "assessment and evidence separation"
+    ],
+    "queries": [
+      "Which governed condition supplies the predicate input for this entity, scope, and window?",
+      "Does the applicable criterion classify it as adverse?",
+      "When does one continuous Problem episode end and another begin?"
+    ]
+  },
+  "C.22.2": {
+    "keywords": [],
+    "queries": [
+      "How do I turn a messy signal into a reviewable ProblemCard episteme before P2W?",
+      "What makes a ProblemCard P2W-ready?",
+      "How do I keep actual PFR, evidence, gates, autonomy, archives, task typing, and method selection with their neighboring governors?"
+    ]
+  },
+  "C.23": {
+    "keywords": [
+      "MethodFamily",
+      "evidence",
+      "maturity",
+      "SoS-LOG",
+      "admit",
+      "degrade",
+      "abstain",
+      "selector"
+    ],
+    "queries": [
+      "How is method family maturity assessed?",
+      "What is the SoS-LOG for selection?"
+    ]
+  },
+  "C.24": {
+    "keywords": [],
+    "queries": []
+  },
+  "C.25": {
+    "keywords": [
+      "quality bundle",
+      "-ility",
+      "quality family",
+      "characteristic plus scope",
+      "mechanism/status slots",
+      "endpoint classification",
+      "viability envelope",
+      "proxy metric",
+      "admissible quality-family use",
+      "failure mode"
+    ],
+    "queries": [
+      "What is a Q-Bundle in FPF?",
+      "When is an -ility one characteristic and when is it a bundle?",
+      "When does a viability claim need C.26.3 rather than one metric?"
+    ]
+  },
+  "C.26": {
+    "keywords": [
+      "quantum-like",
+      "QL-lite",
+      "QL-NQ",
+      "probe frame",
+      "order effect",
+      "incompatible probes",
+      "instrument update",
+      "state export",
+      "source-loss coarsening",
+      "minimal admissible output"
+    ],
+    "queries": [
+      "When is quantum-like useful as a mathematical lens in FPF?",
+      "What representational mistake does QL-lite prevent?",
+      "How do I use QL without making a physical quantum claim?"
+    ]
+  },
+  "C.26.1": {
+    "keywords": [
+      "probe-coupled boundary",
+      "passive read",
+      "dashboard as instrument",
+      "workshop as state-changing interaction",
+      "API read",
+      "survey",
+      "bridge result",
+      "export loss",
+      "evidence window"
+    ],
+    "queries": [
+      "When does a dashboard, workshop, metric, or API read change what it reports?",
+      "How do I stop treating a boundary interaction as a passive read?",
+      "When should a probe-coupled case apply evidence or assurance patterns?"
+    ]
+  },
+  "C.26.2": {
+    "keywords": [
+      "distributed-state evidence",
+      "coordinated work",
+      "enacted state",
+      "minimal state reading",
+      "evidence carrier",
+      "window",
+      "rival explanation",
+      "no group mind",
+      "report/export loss"
+    ],
+    "queries": [
+      "When does coordinated work evidence a state no participant report carries?",
+      "How do I bound a distributed-state reading?",
+      "When is a survey or dashboard thinner than the enacted state?"
+    ]
+  },
+  "C.26.3": {
+    "keywords": [
+      "viability envelope",
+      "homeostasis",
+      "allostasis",
+      "boundary regulation",
+      "sensor/probe/actuator split",
+      "metric-induced distortion",
+      "service viability",
+      "quality bundle",
+      "failure mode"
+    ],
+    "queries": [
+      "When is viability more than one green metric?",
+      "How do boundary probes or metrics change a viability envelope?",
+      "When does a service split or support load need envelope regulation?"
+    ]
+  },
+  "C.27": {
+    "keywords": [
+      "temporal claim adequacy",
+      "temporal claim",
+      "state reading",
+      "rate reading",
+      "temporal trend",
+      "rate-change",
+      "intervention-sensitive temporal change",
+      "effort window",
+      "resistance/inertia",
+      "rhythm/cadence",
+      "throughput",
+      "recovery",
+      "braking",
+      "coasting",
+      "stabilization",
+      "dynamic benchmark"
+    ],
+    "queries": [
+      "When does a speed, rhythm, throughput, or recovery claim need temporal adequacy?",
+      "How do I separate state, rate, and intervention-sensitive rate-change?",
+      "When is faster improvement not enough for benchmark, quality, viability, or QL claims?"
+    ]
+  },
+  "C.27.TA": {
+    "keywords": [
+      "temporal aspect",
+      "time window",
+      "freshness",
+      "currentness",
+      "rhythm",
+      "cadence",
+      "validity window",
+      "recovery timing"
+    ],
+    "queries": [
+      "Which time relation matters for this claim or object?",
+      "How do I state freshness, rhythm, latency, or validity window without turning it into evidence, work, or dynamics law?"
+    ]
+  },
+  "C.28": {
+    "keywords": [
+      "causal-use question",
+      "causality ladder",
+      "association",
+      "intervention",
+      "counterfactual",
+      "Pearl Causal Hierarchy",
+      "Structural Causal Model",
+      "causal diagram",
+      "causal estimand",
+      "identification",
+      "counterfactual sampling realizability",
+      "causal evidence support basis",
+      "target trial",
+      "causal fairness",
+      "off-policy causal evaluation",
+      "causal-RL evaluation"
+    ],
+    "queries": [
+      "Can I say this caused that?",
+      "Is this intervention claim supported?",
+      "What evidence supports a counterfactual claim?",
+      "When does a fairness metric need causal support?",
+      "Is simulation enough for a counterfactual claim?",
+      "Which pattern handles causal benchmark parity?",
+      "When should causal language be downgraded to association, measurement, temporal, QL, or local prose?"
+    ]
+  },
+  "C.29": {
+    "keywords": [
+      "mathematical lens",
+      "structure-preserving representation",
+      "lens mapping mode",
+      "preserved structure",
+      "lost structure",
+      "invariants",
+      "stop condition",
+      "scale window",
+      "coarse-graining",
+      "rival lens",
+      "`LensUseAdmissibilityValue`",
+      "validation boundary",
+      "learned lens",
+      "ontology smuggling"
+    ],
+    "queries": [
+      "When does a mathematical analogy become an admissible FPF lens?",
+      "What structure is preserved by this lens?",
+      "Where must this math transfer stop?",
+      "How do I use mathematical structure without importing ontology?"
+    ]
+  },
+  "C.30": {
+    "keywords": [
+      "grounded architecture",
+      "ArchitectureOf@Context",
+      "selected structure",
+      "architecture claim",
+      "architecture question card",
+      "candidate architecture use",
+      "architecture-description boundary",
+      "artifact-as-architecture guard"
+    ],
+    "queries": [
+      "How do I recover a grounded architecture claim?",
+      "Which selected structure changes the architecture move?",
+      "When does candidate synthesis go to C.32 rather than C.30?"
+    ]
+  },
+  "C.30.AD": {
+    "keywords": [
+      "architecture description",
+      "ArchitectureDescription@Context",
+      "architecture description use card",
+      "architecture structural view",
+      "viewpoint",
+      "correspondence",
+      "source return",
+      "specification-use boundary",
+      "candidate-description boundary"
+    ],
+    "queries": [
+      "When is an architecture description the EntityOfConcern under repair?",
+      "How do I keep views, viewpoints, selected structures, and publication boundaries distinct?",
+      "Where do described candidate palettes and residual frames go?"
+    ]
+  },
+  "C.30.AD.BA": {
+    "keywords": [],
+    "queries": []
+  },
+  "C.30.P": {
+    "keywords": [],
+    "queries": []
+  },
+  "C.30.STRAT": {
+    "keywords": [],
+    "queries": []
+  },
+  "C.30.ASV": {
+    "keywords": [
+      "architecture structural view",
+      "ArchitectureStructureKindRef",
+      "VF.ARCH.STRUCTURE",
+      "viewpoint bundle",
+      "structure kind",
+      "hidden or lost structure",
+      "correspondence",
+      "source return"
+    ],
+    "queries": [
+      "Which structure kind does this architecture view describe?",
+      "How do viewpoint and structure kind stay distinct?",
+      "When does a view hide or lose structure?"
+    ]
+  },
+  "C.30.LCA": {
+    "keywords": [
+      "control-structure view",
+      "layered control architecture",
+      "supervisor loop",
+      "controller and plant",
+      "rate band",
+      "control layer",
+      "proof overread"
+    ],
+    "queries": [
+      "When is LCA a control-structure view rather than proof?",
+      "How do layer, level, stack, and rate labels recover fields named by value?",
+      "Where do stability, safety, evidence, and gate claims go?"
+    ]
+  },
+  "C.30.ILC": {
+    "keywords": [
+      "cross-scope residual",
+      "interlevel conflict",
+      "frustration",
+      "declared scope",
+      "structure kind",
+      "local repair",
+      "residual-bearing locus",
+      "first architecture move"
+    ],
+    "queries": [
+      "What is the first architecture move when a local fix creates a residual elsewhere?",
+      "When does residual-reducing synthesis go to C.32.MLAO and C.32?",
+      "When should the case exit to measurement, scale, evidence, decision, or selected-set publication?"
+    ]
+  },
+  "C.30.TFS-REL": {
+    "keywords": [],
+    "queries": [
+      "Which architecture claim uses this selected TFS or network?",
+      "How do architecture, function or functional view, and transformation flow stay distinct, and when do selected TFS variants become C.32 candidate inputs?",
+      "Does one named containing holon or an explicit inter-holon use supply the architecture side, and which stronger architecture, Work, evidence, gate, or decision claim must return to its owner?"
+    ]
+  },
+  "C.31": {
+    "keywords": [
+      "modularity characteristics",
+      "reusable-structure characteristics",
+      "coupling",
+      "cohesion",
+      "substitutability",
+      "interface variation",
+      "evidence reuse",
+      "bespoke residue",
+      "ModularityVectorLite"
+    ],
+    "queries": [
+      "Which modularity characteristic is under evaluation?",
+      "When is a modularity score report-only?",
+      "How do I keep module, interface, reuse, and evidence-reuse claims distinct?"
+    ]
+  },
+  "C.31.RSA": {
+    "keywords": [
+      "reusable-structure accounting",
+      "reusable share",
+      "bespoke residue",
+      "accounting basis",
+      "report-only share",
+      "source return",
+      "refactoring opportunity"
+    ],
+    "queries": [
+      "Where is reusable structure located?",
+      "When is a reusable share only report-only?",
+      "What gets worse when we increase reuse?"
+    ]
+  },
+  "C.31.ASAP": {
+    "keywords": [
+      "architecture scale preference",
+      "scale amenability",
+      "ScaleClaimTriage",
+      "scale variable",
+      "scale window",
+      "architecture alternatives",
+      "source-return condition",
+      "coarse-graining",
+      "RG",
+      "platform scale claim",
+      "waiver reason"
+    ],
+    "queries": [
+      "When does modularity or platform wording carry an architecture scale-preference claim?",
+      "How can scale preference inform C.32 candidate generation without selecting the architecture?",
+      "When is coarse-graining or RG-like language only a mathematical lens?"
+    ]
+  },
+  "C.32": {
+    "keywords": [
+      "architecture candidate synthesis",
+      "CandidateArchitecturePalette@Project",
+      "selected structures",
+      "architecture characteristics",
+      "synthesis structure map",
+      "candidate configurations",
+      "trade-off front",
+      "retained alternatives"
+    ],
+    "queries": [
+      "How do I synthesize candidate architecture configurations before comparison?",
+      "Which selected structures and architecture characteristics change?",
+      "When does C.32 stop before comparison, selected-set publication, local choice, or project architecture decision?"
+    ]
+  },
+  "C.32.P2S": {
+    "keywords": [],
+    "queries": [
+      "What outside change and relying use justify this architecture pressure?",
+      "Which actual or intended project system-of-interest and boundary are current?",
+      "What functioning hypothesis must be intelligible before choosing internal structure?",
+      "Which direct owner supplies the missing prerequisite?"
+    ]
+  },
+  "C.32.HCS": {
+    "keywords": [
+      "architecture-bearing family characteristic starter pack",
+      "architecture characteristic heads",
+      "source catalogue narrowing",
+      "first criteria questions",
+      "characteristic transfer"
+    ],
+    "queries": [
+      "Which few architecture-characteristic heads should we inspect first?",
+      "How do software-quality catalogues transfer to systems, methods, roles, cultures, AI workflows, or evidence practices without admitting those source labels as holon kinds?",
+      "When does starter work hand off to ACS?"
+    ]
+  },
+  "C.32.ACS": {
+    "keywords": [
+      "architecture characteristic criteria set",
+      "criteria row",
+      "Q-Bundle",
+      "improvement cycle",
+      "proxy risk",
+      "protected counter-characteristic",
+      "anti-Goodhart guard"
+    ],
+    "queries": [
+      "How do I turn broad -ility names into project criteria rows?",
+      "Which three to five characteristics enter optimization and which remain guardrails?",
+      "How does the criteria set feed eval and candidate synthesis?"
+    ]
+  },
+  "C.32.ACE": {
+    "keywords": [
+      "architecture-characteristic eval program",
+      "eval result",
+      "measurement boundary",
+      "parity frame",
+      "missing-data policy",
+      "proxy risk",
+      "comparison input"
+    ],
+    "queries": [
+      "How do I evaluate architecture candidates against criteria rows?",
+      "Why is eval not the characteristic itself?",
+      "When does an eval result feed comparison, publication, or decision without replacing them?"
+    ]
+  },
+  "C.32.CONWAY": {
+    "keywords": [],
+    "queries": [
+      "Which architecture influences the candidate and which architecture is being changed?",
+      "Are actor, role, Work, and direct influence facts current or only provisional pressure?",
+      "Which few governed characteristic rows or Q-Bundle slots make the trade-off real?",
+      "When is mirroring only a source cue rather than evidence of architecture adequacy?"
+    ]
+  },
+  "C.32.MLAO": {
+    "keywords": [
+      "multilevel architecture residual optimization",
+      "residual-reducing candidate frame",
+      "declared level",
+      "declared scope",
+      "Pareto front",
+      "stepping stone",
+      "ideality pressure",
+      "scale amenability"
+    ],
+    "queries": [
+      "How do I prepare candidate architecture changes after cross-scope residual triage?",
+      "How do residuals, fronts, archives, and stepping stones inform synthesis without deciding?",
+      "When does the case return to C.30.ILC, C.29, C.31.ASAP, C.32, G.5, C.11, or C.32.PAD?"
+    ]
+  },
+  "C.32.FAIL": {
+    "keywords": [
+      "architecture failure cue",
+      "architecture repair cue",
+      "stressed architecture object",
+      "selected-structure relation",
+      "candidate repair",
+      "repair-entry family",
+      "source overread"
+    ],
+    "queries": [
+      "How do I turn an architecture warning into the smallest repair action?",
+      "Which governing pattern owns the repair?",
+      "When should evidence, assurance, comparison, selection, publication, choice, or decision claims leave the repair cue?"
+    ]
+  },
+  "C.32.PAD": {
+    "keywords": [
+      "project architecture decision",
+      "ArchitectureDecisionRelation@Project",
+      "selected architecture option",
+      "affected selected structure",
+      "architecture-characteristic trade-off",
+      "accepted loss",
+      "method-use instruction",
+      "architect-developer split",
+      "reopen condition"
+    ],
+    "queries": [
+      "How do I turn candidate architecture configurations into a project decision?",
+      "Which selected structures and accepted losses does the architecture decision commit?",
+      "How does an architecture decision guide developer methods without becoming an ADR or work plan?"
+    ]
+  },
+  "C.32.ADR": {
+    "keywords": [
+      "architecture decision record",
+      "ADR projection",
+      "ArchitectureDecisionDescription@Project",
+      "ArchitectureDecisionRecordProjection@Project",
+      "section function",
+      "rationale",
+      "consequences",
+      "method-use instruction",
+      "supersession",
+      "publication boundary"
+    ],
+    "queries": [
+      "How do I write an ADR-like record from an architecture decision relation?",
+      "Which ADR sections are required by the decision use?",
+      "When is an ADR only a publication projection rather than the decision?"
+    ]
+  },
+  "C.32.ADA": {
+    "keywords": [
+      "architecture decision adequacy",
+      "ArchitectureDecisionAdequacyEvaluation@Project",
+      "declared use",
+      "complete coordinate set",
+      "E.21 labels",
+      "method docking",
+      "publication projection",
+      "no average",
+      "repair target"
+    ],
+    "queries": [
+      "How do I evaluate whether an architecture decision is adequate for a declared use?",
+      "Which weak coordinate should be repaired before developer work?",
+      "Why does an ADR score not approve an architecture decision?"
+    ]
+  },
+  "C.33": {
+    "keywords": [
+      "structural information adequacy",
+      "captured selected structure",
+      "missing structure",
+      "lost structure",
+      "missing-structure return",
+      "carrier",
+      "observer boundary",
+      "selected structure"
+    ],
+    "queries": [
+      "What selected structure can I safely take from this carrier?",
+      "What structure did the view, ADR, graph, report, or observation lose?",
+      "When must architecture work return to a receiving governing pattern because selected structure is missing?"
+    ]
+  },
+  "C.34": {
+    "keywords": [
+      "structural correspondence",
+      "equivalence",
+      "morphism",
+      "mapping mode",
+      "preserved structure",
+      "lost structure",
+      "directionality",
+      "scope"
+    ],
+    "queries": [
+      "When are two structure-bearing objects same enough for architecture work?",
+      "Which selected structure is preserved and what is lost?",
+      "When is a graph match or morphism only a lens?"
+    ]
+  },
+  "C.35": {
+    "keywords": [
+      "structural synthesis",
+      "structural discovery",
+      "generated carrier",
+      "produced carrier",
+      "described structure",
+      "candidate admission",
+      "source return",
+      "DSM",
+      "NAS",
+      "LLM"
+    ],
+    "queries": [
+      "Can a generated architecture output seed synthesis?",
+      "When is a DSM cluster, NAS graph, LLM diagram, or model transformation ready for C.32?",
+      "What must be recovered before treating a discovered structure as architecture material?"
+    ]
+  },
+  "C.36": {
+    "keywords": [],
+    "queries": []
+  },
+  "C.36.P": {
+    "keywords": [],
+    "queries": []
+  },
+  "D.1": {
+    "keywords": [],
+    "queries": []
+  },
+  "D.2": {
+    "keywords": [],
+    "queries": []
+  },
+  "D.3": {
+    "keywords": [],
+    "queries": []
+  },
+  "D.4": {
+    "keywords": [],
+    "queries": []
+  },
+  "D.5": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.1": {
+    "keywords": [
+      "vision",
+      "mission",
+      "operating system for thought",
+      "purpose",
+      "scope",
+      "goals",
+      "non-goals"
+    ],
+    "queries": [
+      "What is FPF?",
+      "What is the purpose of the First Principles Framework?",
+      "What problem does FPF solve?"
+    ]
+  },
+  "E.2": {
+    "keywords": [
+      "principles",
+      "constitution",
+      "pillars",
+      "invariants",
+      "core values",
+      "rules",
+      "P-1 to P-11"
+    ],
+    "queries": [
+      "What are the core principles of FPF?",
+      "What are the eleven pillars?"
+    ]
+  },
+  "E.2.DA": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.3": {
+    "keywords": [
+      "taxonomy",
+      "precedence",
+      "conflict resolution",
+      "hierarchy",
+      "principles",
+      "classification",
+      "Gov",
+      "Arch",
+      "Epist",
+      "Prag",
+      "Did"
+    ],
+    "queries": [
+      "How does FPF resolve conflicting principles?",
+      "What is the hierarchy of FPF rules?"
+    ]
+  },
+  "E.4": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.4.FPF": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.4.PFAD": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.4.DPF": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.4.DPF.DA": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.4.PFR": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.5": {
+    "keywords": [
+      "guardrails",
+      "constraints",
+      "architecture",
+      "rules",
+      "safety",
+      "GR-1 to GR-4"
+    ],
+    "queries": [
+      "What are the main architectural constraints in FPF?"
+    ]
+  },
+  "E.5.1": {
+    "keywords": [
+      "lexical firewall",
+      "jargon",
+      "tool-agnostic",
+      "conceptual purity",
+      "DevOps",
+      "CI/CD",
+      "yaml"
+    ],
+    "queries": [
+      "Can I use terms like 'CI/CD' in FPF core patterns?"
+    ]
+  },
+  "E.5.2": {
+    "keywords": [
+      "notation",
+      "syntax",
+      "semantics",
+      "tool-agnostic",
+      "diagram",
+      "UML",
+      "BPMN"
+    ],
+    "queries": [
+      "Does FPF require a specific diagram style?",
+      "How is meaning defined in FPF?"
+    ]
+  },
+  "E.5.3": {
+    "keywords": [
+      "dependency",
+      "layers",
+      "architecture",
+      "modularity",
+      "acyclic",
+      "Core",
+      "Tooling",
+      "Pedagogy"
+    ],
+    "queries": [
+      "What are the dependency rules between FPF ecosystem families?"
+    ]
+  },
+  "E.5.4": {
+    "keywords": [
+      "bias",
+      "audit",
+      "ethics",
+      "fairness",
+      "trans-disciplinary",
+      "neutrality",
+      "review"
+    ],
+    "queries": [
+      "How does FPF handle bias?",
+      "Is there an ethics review process in FPF?"
+    ]
+  },
+  "E.6": {
+    "keywords": [
+      "didactic",
+      "pedagogy",
+      "structure",
+      "narrative flow",
+      "on-ramp",
+      "learning"
+    ],
+    "queries": [
+      "How is the FPF specification structured for learning?",
+      "What is the 'On-Ramp first' principle?"
+    ]
+  },
+  "E.7": {
+    "keywords": [
+      "grounding",
+      "examples",
+      "archetypes",
+      "U.System",
+      "U.Episteme",
+      "Tell-Show-Show"
+    ],
+    "queries": [
+      "How are FPF patterns explained?",
+      "What are the standard examples in FPF?"
+    ]
+  },
+  "E.8": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.8.ECSPF": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.9": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.9.DA": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.10": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.10.MOVE": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.10.ARCH": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.10.P": {
+    "keywords": [
+      "prefixes",
+      "U",
+      "Γ_",
+      "ut:",
+      "tv:",
+      "namespace",
+      "registry"
+    ],
+    "queries": [
+      "What do the prefixes like 'U.' mean in FPF?"
+    ]
+  },
+  "E.10.D1": {
+    "keywords": [
+      "context",
+      "U.BoundedContext",
+      "anchor",
+      "domain",
+      "frame"
+    ],
+    "queries": [
+      "What is the formal meaning of 'Context' in FPF?"
+    ]
+  },
+  "E.10.D2": {
+    "keywords": [
+      "EntityOfConcern",
+      "Description episteme",
+      "specification use",
+      "DescriptionContext",
+      "testable",
+      "verifiable"
+    ],
+    "queries": [
+      "Difference between a description and a specification in FPF?"
+    ]
+  },
+  "E.11": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.11.PUA": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.11.PUR": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.12": {
+    "keywords": [
+      "didactic",
+      "cognitive load",
+      "ergonomics",
+      "usability",
+      "Rationale Mandate",
+      "HF-Loop"
+    ],
+    "queries": [
+      "How does FPF ensure it's understandable?",
+      "What is the 'So What?' test in FPF?"
+    ]
+  },
+  "E.13": {
+    "keywords": [
+      "pragmatic utility",
+      "proxy-to-value alignment",
+      "Goodhart",
+      "Campbell",
+      "surrogation",
+      "minimally viable value slice"
+    ],
+    "queries": [
+      "How does FPF keep measures from replacing value?",
+      "What got worse when the score improved?"
+    ]
+  },
+  "E.14": {
+    "keywords": [
+      "working model",
+      "human-centric",
+      "publication surface",
+      "grounding",
+      "assurance layers"
+    ],
+    "queries": [
+      "What is the main interface for FPF users?",
+      "How does FPF separate human-readable models from formal assurance?"
+    ]
+  },
+  "E.15": {
+    "keywords": [
+      "lexical authoring",
+      "evolution protocol",
+      "LAT",
+      "delta-classes"
+    ],
+    "queries": [
+      "How are FPF patterns authored and evolved?",
+      "What is a Lexical Authoring Trace (LAT)?"
+    ]
+  },
+  "E.16": {
+    "keywords": [
+      "autonomy budget",
+      "guarded enactment",
+      "autonomy ledger",
+      "override speech act",
+      "scout/probe/commit checkpoint"
+    ],
+    "queries": [
+      "How does FPF make autonomy enforceable and auditable?",
+      "How do bounded specialization budgets stay separate from committed rollout?"
+    ]
+  },
+  "E.17.0": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.17.1": {
+    "keywords": [
+      "viewpoint bundle",
+      "reusable viewpoint family",
+      "import discipline",
+      "alias discipline",
+      "governance",
+      "engineering/management/research bundles"
+    ],
+    "queries": [
+      "How do I define reusable viewpoint bundles in FPF?",
+      "What is a ViewpointBundleLibrary?"
+    ]
+  },
+  "E.17.2": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.17": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.17.EFP": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.17.ID.CR": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.17.AUD": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.17.AUD.LHR": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.17.AUD.OOTD": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.18": {
+    "keywords": [],
+    "queries": [
+      "Is this one TFS, one internal subflow, or independently identified members?",
+      "Which state remains local to this TFS position?",
+      "When is the visible graph a mathematical description or publication rather than the selected structure?"
+    ]
+  },
+  "E.18.1": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.18.2": {
+    "keywords": [],
+    "queries": [
+      "Which exact TFS or network does this expression describe?",
+      "What structure does the expression preserve or lose?",
+      "Which stronger work, evidence, gate, architecture, or decision claim must return to its owner?"
+    ]
+  },
+  "E.18.3": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.18.NET": {
+    "keywords": [],
+    "queries": [
+      "Which independent TFS members answer this concrete project question together?",
+      "Which exact occurrences and endpoint bindings connect them?",
+      "Is this still a provisional long-mantra map or an admitted network?",
+      "Where does a builder case close before its named downstream use?"
+    ]
+  },
+  "E.19": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.20": {
+    "keywords": [
+      "mechanism introduction",
+      "authoring protocol",
+      "governing-definition assignment",
+      "MIP-run manifest",
+      "canonical card-first",
+      "no dangling `…IntensionRef`",
+      "suite boundary hygiene",
+      "P2W seam",
+      "SlotKind lexicon discipline",
+      "alias docking",
+      "typed RSCR triggers",
+      "regression envelope",
+      "PQG profiles"
+    ],
+    "queries": [
+      "How to introduce a new mechanism in FPF?",
+      "How to avoid dangling IntensionRefs in suites?",
+      "How to assign mechanism changes to their governing definitions?",
+      "How to evolve mechanism suites without drift?"
+    ]
+  },
+  "E.21": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.22": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.23": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.24": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.24.CD": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.24.PUB": {
+    "keywords": [],
+    "queries": []
+  },
+  "E.24.UK": {
+    "keywords": [],
+    "queries": []
+  },
+  "F.0.1": {
+    "keywords": [
+      "local meaning",
+      "context",
+      "semantic boundary",
+      "bridge",
+      "congruence",
+      "lexicon",
+      "U.BoundedContext"
+    ],
+    "queries": [
+      "How does FPF handle ambiguity?",
+      "What is the principle of local meaning?",
+      "How do different contexts communicate?"
+    ]
+  },
+  "F.1": {
+    "keywords": [
+      "domain survey",
+      "field mapping",
+      "landscape analysis"
+    ],
+    "queries": [
+      "How to map out all the disciplines relevant to my project?",
+      "How do I avoid tunnel vision when different teams use different terminology?",
+      "What fields should I survey before unifying concepts across teams?",
+      "How can we map the domains relevant to a project?",
+      "How can we avoid relying on just one standard when analyzing a domain?",
+      "Which knowledge domains should we cover before integrating terminology?"
+    ]
+  },
+  "F.2": {
+    "keywords": [
+      "term harvesting",
+      "lexical unit",
+      "normalization",
+      "provenance",
+      "source-text terms",
+      "glossary building",
+      "vocabulary extraction",
+      "naming conventions"
+    ],
+    "queries": [
+      "How to extract terminology from a standard?",
+      "What is a local lexical unit?",
+      "How to handle synonyms within one domain?",
+      "How do I collect and standardize terms from a technical document?",
+      "How to create a consistent glossary for one team or domain?",
+      "How to stop people using the same word to mean different things?",
+      "How can we collect and organize terms from a technical standard?",
+      "How can we create a glossary for a team or domain?",
+      "How can we handle a word that means different things across departments?"
+    ]
+  },
+  "F.3": {
+    "keywords": [
+      "sense clustering",
+      "disambiguation",
+      "Local-Sense",
+      "SenseCell",
+      "counter-examples"
+    ],
+    "queries": [
+      "How to group similar terms within a single domain?",
+      "What is a SenseCell?",
+      "How to handle words with multiple meanings in one context?"
+    ]
+  },
+  "F.4": {
+    "keywords": [
+      "role template",
+      "status template",
+      "invariants",
+      "RoleStateGraph (RSG)",
+      "Role Characterisation Space (RCS)"
+    ],
+    "queries": [
+      "How to define a role in FPF?",
+      "What is a Role Description?",
+      "How to specify the states of a role?"
+    ]
+  },
+  "F.5": {
+    "keywords": [
+      "naming conventions",
+      "lexical rules",
+      "morphology",
+      "twin registers",
+      "U-kind naming",
+      "role-description labels"
+    ],
+    "queries": [
+      "How do I name admitted U-kinds and role descriptions?",
+      "How do I avoid false kindhood from a useful label?"
+    ]
+  },
+  "F.6": {
+    "keywords": [
+      "actual performing `U.System`",
+      "exact `U.RoleAssignment`",
+      "`performedUnderAssignment`",
+      "assignment coverage",
+      "world-side attribution",
+      "separate assertion and evidence"
+    ],
+    "queries": [
+      "Who actually performed this dated Work, under which obtaining assignment?",
+      "Did the assignment cover the attributed extent?",
+      "When is explicit attribution identity needed?"
+    ]
+  },
+  "F.7": {
+    "keywords": [
+      "concept-set",
+      "table",
+      "row",
+      "columns",
+      "differences",
+      "comparisons"
+    ],
+    "queries": [
+      "How do I create a concept-set table?",
+      "How do I compare concepts across contexts?"
+    ]
+  },
+  "F.8": {
+    "keywords": [
+      "decision lattice",
+      "type explosion",
+      "reuse",
+      "minting new U-kinds",
+      "parsimony",
+      "concept reuse",
+      "new vs existing",
+      "type creation decision"
+    ],
+    "queries": [
+      "When should I create a new U-kind or reuse an existing governed value?",
+      "How do I avoid creating too many roles or kinds?",
+      "Decision guide for new concepts.",
+      "When should I create a new concept instead of reusing an existing one?",
+      "How to avoid creating too many overlapping terms?",
+      "Decision guide: new term or reuse?",
+      "When should we introduce a new concept rather than reuse an existing one?",
+      "How can we avoid creating too many overlapping terms?",
+      "Guidance: introduce a new term or reuse an existing one?"
+    ]
+  },
+  "F.9": {
+    "keywords": [
+      "exact F.17 `SchemeSenseCell` endpoints",
+      "different `<ReferenceScheme",
+      "LocalSenseClaim>` projections",
+      "relation-semantic profile",
+      "obtaining Bridge",
+      "optional `CL` evidence-strength shorthand",
+      "separate C.2.1 bounded-use claim",
+      "A.10/B.3 reliance",
+      "inverse/composition checks",
+      "quantum/coarsening exit",
+      "optional card"
+    ],
+    "queries": [
+      "Do the endpoint projections differ?",
+      "Does this exact Bridge obtain?",
+      "For which action, direction, rule, and tolerance is it separately claimed suitable, and what authorizes or performs the receiving use?"
+    ]
+  },
+  "F.9.1": {
+    "keywords": [
+      "bridge stance",
+      "stance overlay",
+      "interpretive gloss",
+      "projection note",
+      "rename note",
+      "language-state comparisons",
+      "overlay annotation"
+    ],
+    "queries": [
+      "How do I add a stance gloss to a bridge card without changing bridge semantics?",
+      "What is the Bridge Stance Overlay?",
+      "When does a stance label still depend on the underlying F.9 bridge card?"
+    ]
+  },
+  "F.10": {
+    "keywords": [
+      "status",
+      "evidence",
+      "standard",
+      "requirement",
+      "polarity",
+      "applicability windows"
+    ],
+    "queries": [
+      "How to map different types of status like 'evidence' and 'requirement'?",
+      "How does FPF handle compliance?"
+    ]
+  },
+  "F.11": {
+    "keywords": [
+      "Method",
+      "MethodDescription",
+      "Work",
+      "Actuation",
+      "Role–Method–Work alignment"
+    ],
+    "queries": [
+      "How to align the concepts of 'method' and 'work' across domains?",
+      "What is the method quartet?"
+    ]
+  },
+  "F.12": {
+    "keywords": [
+      "Service Level Objective (SLO)",
+      "Service Level Agreement (SLA)",
+      "acceptance criteria",
+      "binding",
+      "observation"
+    ],
+    "queries": [
+      "How to bind an SLO to actual work?",
+      "How is service acceptance modeled in FPF?"
+    ]
+  },
+  "F.13": {
+    "keywords": [
+      "evolution",
+      "deprecation",
+      "renaming",
+      "splitting terms",
+      "merging terms"
+    ],
+    "queries": [
+      "How to manage changes to terminology over time?",
+      "What is the process for renaming a concept?"
+    ]
+  },
+  "F.14": {
+    "keywords": [
+      "vocabulary growth",
+      "guard-rails",
+      "separation-of-duties",
+      "bundles",
+      "reuse"
+    ],
+    "queries": [
+      "How to prevent having too many roles and statuses?",
+      "What are the strategies for controlling vocabulary size?"
+    ]
+  },
+  "F.15": {
+    "keywords": [
+      "static checks",
+      "regression tests",
+      "acceptance tests",
+      "validation",
+      "SenseCell testing"
+    ],
+    "queries": [
+      "How is the unification process validated?",
+      "What are SCR/RSCR tests in FPF?"
+    ]
+  },
+  "F.16": {
+    "keywords": [
+      "didactic template",
+      "example",
+      "pedagogy",
+      "cross-domain illustration"
+    ],
+    "queries": [
+      "What is the standard format for a worked example in FPF?",
+      "How to show a concept applied across different fields?"
+    ]
+  },
+  "F.17": {
+    "keywords": [],
+    "queries": []
+  },
+  "F.18": {
+    "keywords": [],
+    "queries": []
+  },
+  "F.19": {
+    "keywords": [],
+    "queries": []
+  },
+  "G.Core": {
+    "keywords": [
+      "Part‑G invariants",
+      "delegation-first core",
+      "RSCR trigger kinds",
+      "Default Governing Definition Index",
+      "ID continuity",
+      "core linkage"
+    ],
+    "queries": [
+      "How to universalize Part G without drift?",
+      "How to make RSCR triggers id-based?"
+    ]
+  },
+  "G.0": {
+    "keywords": [
+      "CG-Spec",
+      "CG-Frame",
+      "admissibility gate",
+      "ComparatorSet",
+      "ScaleComplianceProfile (SCP)",
+      "MinimalEvidence",
+      "Γ-fold",
+      "Φ(CL)",
+      "Φ_plane",
+      "CL-routing",
+      "ReferencePlane",
+      "edition pins",
+      "RSCRTriggerKindId"
+    ],
+    "queries": [
+      "What is CG-Spec in FPF?",
+      "How does CG-Spec constrain lawful comparison and aggregation?",
+      "What must be pinned for CG-Spec reproducibility?"
+    ]
+  },
+  "G.1": {
+    "keywords": [
+      "generator chassis",
+      "generator",
+      "selector",
+      "and set-result scaffold",
+      "six-card kit (M1-M6)",
+      "`CGKitId` manifest",
+      "`SoTA_SetId`",
+      "`VariantPoolId`",
+      "`ShortlistId`",
+      "`CGFrameLibraryId`",
+      "`RefreshReadinessCardId`",
+      "set-return selection",
+      "set-result outcome",
+      "UTS/Name Cards",
+      "RSCR linkage surfaces",
+      "edition pins",
+      "shipping and refresh boundaries"
+    ],
+    "queries": [
+      "How do I author a reusable CG-Frame generator kit?",
+      "What belongs in the six-card chassis M1-M6?",
+      "How do G.2 harvesting, G.5 set-return selection, G.10 shipping, and G.11 refresh connect without becoming one method spec?"
+    ]
+  },
+  "G.2": {
+    "keywords": [
+      "SoTA harvest",
+      "synthesis",
+      "SoTA Synthesis Pack@CG-Frame",
+      "SoTAPaletteDescription",
+      "Tradition",
+      "TraditionAtlasView",
+      "DeclaredSubstrateAtlasView",
+      "TypedSetViews",
+      "BridgeMatrix",
+      "GammaEpistSynthId",
+      "FlowRecord",
+      "palette-first"
+    ],
+    "queries": [
+      "How does FPF harvest and synthesize SoTA for a CG-Frame?",
+      "When is TraditionAtlasView lawful and when is palette-first or thinner interpretation enough?",
+      "How do competing Traditions stay plural while bridgeable and refreshable?"
+    ]
+  },
+  "G.3": {
+    "keywords": [
+      "CHR authoring",
+      "characteristics",
+      "scales",
+      "levels",
+      "coordinates",
+      "CSLC lawfulness",
+      "typed measurement",
+      "CHR Pack@CG-Frame",
+      "ReferencePlane",
+      "Φ/CL policy pins",
+      "edition pins",
+      "RSCRTriggerKindId"
+    ],
+    "queries": [
+      "How do I author CHR packs (typed characteristics and scales) for a CG-Frame?",
+      "How to keep measurement lawful (CSLC) and refreshable (RSCR)?"
+    ]
+  },
+  "G.4": {
+    "keywords": [
+      "CAL Pack@CG-Frame",
+      "Context charter",
+      "typed operator card",
+      "acceptance clause",
+      "legal flow",
+      "`pass \\| fail \\| unknown`",
+      "evidence/currentness profile",
+      "proof-or-gap row",
+      "TaskMap",
+      "declaration/runtime boundary",
+      "dated `EvaluationWork`",
+      "actual A.6.1 bindings",
+      "verdict episteme"
+    ],
+    "queries": [
+      "How do I author the smallest reusable CAL pack before any candidate is evaluated?",
+      "How do I keep a stored operator, clause, flow, manifest, proof row, or evidence ref separate from dated evaluation work and its verdict?",
+      "Which optional extension governor, entry condition, and stop condition are required before extra method wiring enters?"
+    ]
+  },
+  "G.5": {
+    "keywords": [
+      "method-family registry",
+      "generator-family registry",
+      "dispatcher",
+      "SelectorOutcomeKind",
+      "selected-set publication",
+      "set-result outcome",
+      "`Shortlist`",
+      "`RankedShortlist`",
+      "`ShortlistId`",
+      "`SpecialistHandoff`",
+      "abstain/escalation result",
+      "basis pins",
+      "no hidden scalar winner"
+    ],
+    "queries": [
+      "How does FPF dispatch among rival method families without hidden scalarization?",
+      "How do I publish a Shortlist or RankedShortlist honestly?",
+      "When does G.5 begin after C.11 choice, C.19 pool policy, or C.24 planning?"
+    ]
+  },
+  "G.6": {
+    "keywords": [
+      "`EvidenceGraph`",
+      "`PathId`",
+      "`PathSliceId`",
+      "`PathCitationRecord`",
+      "provenance ledger",
+      "exact represented objects",
+      "exact direct relations",
+      "direct governors",
+      "obtaining claims",
+      "unresolved gaps",
+      "`NotCarried`",
+      "source/currentness",
+      "representation correspondence",
+      "downstream work",
+      "actual-use relation",
+      "local refresh"
+    ],
+    "queries": [
+      "When do several downstream consumers need one shared addressable provenance path rather than a local A.10 account?",
+      "How do I cite exact objects and already obtaining direct relations without letting graph nodes, edges, or ledger rows create facts?",
+      "Which smallest path, slice, node projection, or relation-edge projection reopens when a source, relation, edition, window, bridge, currentness result, or reliance boundary changes?"
+    ]
+  },
+  "G.7": {
+    "keywords": [
+      "bridge calibration",
+      "BridgeCard",
+      "BridgeCalibrationTable (BCT)",
+      "RegressionSet",
+      "SentinelSet",
+      "BridgeSentinel",
+      "Congruence Level (CL/CL^k/CL^plane)",
+      "loss notes",
+      "waivers",
+      "ReferencePlane",
+      "Φ(CL)/Ψ(CL^k)/Φ_plane policy pins",
+      "PathSliceId",
+      "GateCrossing",
+      "UTS",
+      "RSCRTriggerKindId"
+    ],
+    "queries": [
+      "How to calibrate cross-Tradition bridges in Part G?",
+      "What is BCT and how is it used?",
+      "How do Bridge Sentinels trigger RSCR?"
+    ]
+  },
+  "G.8": {
+    "keywords": [
+      "SoS-LOG",
+      "rule ids",
+      "admissibility ledger",
+      "tri-state `{pass|degrade|abstain}`",
+      "maturity ladder (poset/ordinal)",
+      "selector-facing bundle",
+      "evidence path pins (`PathId/PathSliceId`)",
+      "Bridge/CL/Φ policy pins",
+      "set-result/archive telemetry",
+      "RSCRTriggerKindId"
+    ],
+    "queries": [
+      "How to package SoS-LOG rules for the selector?",
+      "How to publish a maturity ladder as a citable card?",
+      "How to keep thresholds out of LOG and pin evidence paths?"
+    ]
+  },
+  "G.9": {
+    "keywords": [
+      "parity harness",
+      "benchmark plan",
+      "adaptation parity",
+      "freshness windows",
+      "comparator pins",
+      "selected-set outcomes"
+    ],
+    "queries": [
+      "How does FPF run reproducible parity with explicit pins and windows?",
+      "How do adaptation-speed and specialization claims become lawful parity questions?"
+    ]
+  },
+  "G.10": {
+    "keywords": [
+      "shipping",
+      "`SoTA-Pack(Core)`",
+      "pack-boundary governing definition",
+      "selector-ready publication surface",
+      "`AuditPins`",
+      "`MOOManifest`",
+      "`PortfolioRosterId`",
+      "UTS publication",
+      "`PathId`/`PathSliceId`",
+      "`CrossingBundle`",
+      "edition pins",
+      "telemetry pins",
+      "RSCR wiring",
+      "parity pins",
+      "notation-independent pack",
+      "no semantic respecification"
+    ],
+    "queries": [
+      "How does FPF ship a SoTA pack without smuggling semantics?",
+      "What is SoTA-Pack(Core) as a pack rather than a kit or suite?",
+      "How do AuditPins, MOOManifest, path citations, and crossing bundles support replay and refresh?"
+    ]
+  },
+  "G.11": {
+    "keywords": [
+      "telemetry",
+      "refresh",
+      "decay",
+      "RSCR",
+      "PathSlice",
+      "Bridge Sentinels",
+      "edition-aware",
+      "epistemic debt",
+      "deprecation",
+      "edition bumps",
+      "re-shipping"
+    ],
+    "queries": [
+      "How does FPF keep SoTA packs up-to-date?",
+      "What triggers refresh / RSCR reruns?",
+      "How are deprecations and edition bumps governed?"
+    ]
+  },
+  "G.12": {
+    "keywords": [
+      "dashboard",
+      "DHC",
+      "discipline health",
+      "time-series",
+      "admissible telemetry",
+      "view-only slices",
+      "PathId/PathSliceId",
+      "edition pins",
+      "UTS twins",
+      "RSCR/refresh wiring"
+    ],
+    "queries": [
+      "How to build DHC dashboards in FPF?",
+      "How to publish admissible DHC time-series with evidence and edition pins?",
+      "How to wire dashboard telemetry into RSCR refresh?"
+    ]
+  },
+  "G.13": {
+    "keywords": [
+      "interop",
+      "external index",
+      "claim mapper",
+      "mapping policy",
+      "plane map",
+      "embedding spec",
+      "`ExternalIndexCard@Context`",
+      "`ClaimMapperCard@Context`",
+      "`InteropSurface@Context`",
+      "CHR-typed SoS features",
+      "edition pins",
+      "UTS twins",
+      "RSCRTriggerKindId",
+      "telemetry pin"
+    ],
+    "queries": [
+      "How does FPF integrate external scholarly indexes into Part G?",
+      "What is an ExternalIndexCard / ClaimMapperCard / InteropSurface in FPF?",
+      "How to make interop refreshable with RSCR trigger kinds and edition pins?"
+    ]
+  }
+}

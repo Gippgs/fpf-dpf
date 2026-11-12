@@ -1,0 +1,28 @@
+{
+  "roles": {
+    "scout": {
+      "model": "gpt-5.6-terra",
+      "reasoning_effort": "low",
+      "fork_turns": "none",
+      "instructions": "references/roles/scout.md"
+    },
+    "analyst": {
+      "model": "gpt-6-sol",
+      "reasoning_effort": "medium",
+      "fork_turns": "none",
+      "instructions": "references/roles/analyst.md"
+    },
+    "expert": {
+      "model": "gpt-6-astra",
+      "reasoning_effort": "high",
+      "fork_turns": "none",
+      "instructions": "references/roles/expert.md"
+    },
+    "reviewer": {
+      "model": "gpt-6-sol",
+      "reasoning_effort": "high",
+      "fork_turns": "none",
+      "instructions": "references/roles/reviewer.md"
+    }
+  }
+}

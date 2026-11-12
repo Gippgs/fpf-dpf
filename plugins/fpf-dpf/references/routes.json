@@ -1,0 +1,306 @@
+[
+  {
+    "number": 1,
+    "title": "Project Alignment",
+    "patterns": [
+      {
+        "id": "A.1.1",
+        "core": true
+      },
+      {
+        "id": "A.15",
+        "core": true
+      },
+      {
+        "id": "A.15.2",
+        "core": false
+      },
+      {
+        "id": "A.15.3",
+        "core": false
+      },
+      {
+        "id": "B.5.1",
+        "core": true
+      },
+      {
+        "id": "F.11",
+        "core": false
+      },
+      {
+        "id": "F.9",
+        "core": false
+      },
+      {
+        "id": "F.17",
+        "core": false
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Language Discovery",
+    "patterns": [
+      {
+        "id": "C.2.2a",
+        "core": true
+      },
+      {
+        "id": "C.2.LS",
+        "core": false
+      },
+      {
+        "id": "A.16",
+        "core": true
+      },
+      {
+        "id": "A.16.1",
+        "core": true
+      },
+      {
+        "id": "A.16.2",
+        "core": false
+      },
+      {
+        "id": "B.4.1",
+        "core": false
+      },
+      {
+        "id": "B.5.2.0",
+        "core": false
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Boundary Unpacking",
+    "patterns": [
+      {
+        "id": "A.6",
+        "core": true
+      },
+      {
+        "id": "A.6.B",
+        "core": true
+      },
+      {
+        "id": "A.6.C",
+        "core": true
+      },
+      {
+        "id": "A.6.P",
+        "core": false
+      },
+      {
+        "id": "A.6.Q",
+        "core": false
+      },
+      {
+        "id": "A.6.A",
+        "core": false
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Comparison Selection",
+    "patterns": [
+      {
+        "id": "A.17",
+        "core": false
+      },
+      {
+        "id": "A.18",
+        "core": false
+      },
+      {
+        "id": "A.19",
+        "core": true
+      },
+      {
+        "id": "G.0",
+        "core": true
+      },
+      {
+        "id": "A.19.CPM",
+        "core": true
+      },
+      {
+        "id": "A.19.SelectorMechanism",
+        "core": false
+      },
+      {
+        "id": "G.5",
+        "core": false
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Generator Portfolio",
+    "patterns": [
+      {
+        "id": "A.0",
+        "core": true
+      },
+      {
+        "id": "G.0",
+        "core": true
+      },
+      {
+        "id": "G.1",
+        "core": true
+      },
+      {
+        "id": "G.2",
+        "core": false
+      },
+      {
+        "id": "G.5",
+        "core": false
+      },
+      {
+        "id": "B.5.2.1",
+        "core": false
+      },
+      {
+        "id": "C.17",
+        "core": false
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Rewrite Explanation",
+    "patterns": [
+      {
+        "id": "A.6.3.CR",
+        "core": true
+      },
+      {
+        "id": "A.6.3.RT",
+        "core": true
+      },
+      {
+        "id": "E.17.EFP",
+        "core": true
+      },
+      {
+        "id": "E.17.ID.CR",
+        "core": false
+      },
+      {
+        "id": "E.17.AUD.LHR",
+        "core": false
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Ethical Assurance",
+    "patterns": [
+      {
+        "id": "D.1",
+        "core": false
+      },
+      {
+        "id": "D.2",
+        "core": true
+      },
+      {
+        "id": "D.3",
+        "core": true
+      },
+      {
+        "id": "D.4",
+        "core": false
+      },
+      {
+        "id": "D.5",
+        "core": true
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Trust Assurance",
+    "patterns": [
+      {
+        "id": "B.3",
+        "core": true
+      },
+      {
+        "id": "B.3.5",
+        "core": true
+      },
+      {
+        "id": "B.1",
+        "core": true
+      },
+      {
+        "id": "B.1.1",
+        "core": false
+      },
+      {
+        "id": "A.6.B",
+        "core": false
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Composition Aggregation",
+    "patterns": [
+      {
+        "id": "B.1",
+        "core": true
+      },
+      {
+        "id": "B.1.1",
+        "core": true
+      },
+      {
+        "id": "B.1.2",
+        "core": false
+      },
+      {
+        "id": "B.1.3",
+        "core": false
+      },
+      {
+        "id": "B.1.4",
+        "core": true
+      },
+      {
+        "id": "B.1.5",
+        "core": false
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Evolution Learning",
+    "patterns": [
+      {
+        "id": "B.4",
+        "core": true
+      },
+      {
+        "id": "B.4.1",
+        "core": true
+      },
+      {
+        "id": "B.5.1",
+        "core": true
+      },
+      {
+        "id": "A.4",
+        "core": false
+      },
+      {
+        "id": "G.11",
+        "core": false
+      }
+    ]
+  }
+]
